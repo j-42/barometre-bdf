@@ -1,0 +1,1139 @@
+{
+  "data1": {
+    "A_id": "1",
+    "B_title": "BLOG ECONOMIQUE",
+    "C_leadIn​": "Bloc - notes Eco publie de cour tes analyses pédagogiques, appelées billets (posts en anglais) qui présentent la recherche et lʼexpertise économique de la Banque de France.",
+    "D_mark": "7,7",
+    "bloc1": {
+      "key1": {
+        "E_number": "42",
+        "F_text": "billets postés"
+      },
+      "key2": {
+        "G_number": "2800",
+        "H_text": "abonnés"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "90",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>BLOG ÉCONOMIQUE</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> pour le blog économique",
+        "keys": {
+          "key1": {
+            "S_number": "8,0",
+            "T_text": "Le format des articles : ni trop ni pas assez denses"
+          },
+          "key2": {
+            "U_number": "7,6",
+            "V_text": "La cotation est pertinente, objective L’articulation entre les graphiques et les textes"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "6,7",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du blog économique",
+        "keys": {
+          "key1": {
+            "AI_number": "6,8",
+            "AJ_text": "La présentation de la page d’accueil"
+          },
+          "key2": {
+            "AK_number": "6,7",
+            "AL_text": "La fluidité de navigation sur le blog"
+          },
+          "key3": {
+            "AM_number": "6,6",
+            "AN_text": "L’organisation et la lisibilité des autres pages du blog"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "92",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "85",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "75",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 9 au 29 janvier 2018 auprès dʼutilisateurs abonnés du Blog Economique",
+      "AV_people": "Echantillon représentatif de 48 enquêtes complètes, constitué dʼutilisateurs abonnés"
+    },
+    "bloc6": {
+      "AX_name": "avec Soledad Zignago",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor"
+    },
+    "footer": {
+      "BG_download": "blog-economique.pdf"
+    },
+    "type": "video",
+    "pictogram": "service-1.svg"
+  },
+  "data2": {
+    "A_id": "2",
+    "B_title": "COTATION DES ENTREPRISES",
+    "C_leadIn​": "La cotation de la Banque de France est une appréciation sur la capacité dʼune entreprise, domiciliée en France, à honorer ses engagements financiers à un horizon de trois ans.",
+    "D_mark": "7,2",
+    "bloc1": {
+      "key1": {
+        "E_number": "261516",
+        "F_text": "entreprises non ﬁnancières cotées (essentiellement des PME) "
+      },
+      "key2": {
+        "G_number": "96%",
+        "H_text": "des entreprises cotées afﬁchent un chiffre d’affaires inférieur à 50 millions d’euros"
+      },
+      "key3": {
+        "I_number": "41000",
+        "J_text": "entretiens de cotation"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "84",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> de la prestation <span class='semi-bold'>COTATION DES ENTREPRISES</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,1",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> pour la cotation des entreprises",
+        "keys": {
+          "key1": {
+            "S_number": "7,0",
+            "T_text": "La cotation est pertinente, objective"
+          },
+          "key2": {
+            "U_number": "6,9",
+            "V_text": "La cotation prend en compte la réalité de mon entreprise"
+          },
+          "key3": {
+            "W_number": "6,8",
+            "X_text": "Les méthodes utilisées pour déterminer cette cotation sont claires et compréhensibles"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "8,0",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> pour la cotation des entreprises",
+        "keys": {
+          "key1": {
+            "AA_number": "8,4",
+            "AB_text": "L’interlocuteur a été compétent"
+          },
+          "key2": {
+            "AC_number": "8,0",
+            "AD_text": "Les explications fournies sont claires"
+          },
+          "key3": {
+            "AE_number": "8,0",
+            "AF_text": "Mon interlocuteur s’est intéressé à mon entreprise, a compris ma problématique"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "7,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> de la cotation des entreprises",
+        "keys": {
+          "key1": {
+            "AI_number": "7,2",
+            "AJ_text": "Les informations fournies par la lettre de cotation sont sufﬁsantes"
+          },
+          "key2": {
+            "AK_number": "7,9",
+            "AL_text": "L’objet de la lettre de cotation apparaît clairement"
+          },
+          "key3": {
+            "AM_number": "7,8",
+            "AN_text": "La lettre de cotation et le document explicatif sont clairs et bien présentés"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "92",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "77",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "67",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 16 octobre au 24 novembre 2017 auprès dʼentreprises cotées ayant eu un entretien de cotation selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 285 interviews, constitué dʼentreprises cotées",
+      "AW_title": "Cotation des entreprises :  un outil qui instaure la confiance"
+    },
+    "bloc6": {
+      "AX_name": "avec Catherine Birkner",
+      "AY_img": "catherine-birkner.jpg",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — En quoi la cotation des entreprises est-elle utile ?",
+          "BB_answer": "Elle est utile pour les entreprises parce qu’elle fournit une indication de leur positionnement sur l’échelle du risque de crédit. Elle est essentielle dans le cadre du dialogue avec les établissements de crédit, notamment en cas de demande de financement. Elle est aussi souvent exigée dans les réponses aux appels d’offres. La cotation est enfin utilisée en matière d’assurance-crédit et de plus en plus demandée par les fournisseurs dans le cadre d’octroi de délai de paiement avance et acompte sur commande. "
+        },
+        "question2": {
+          "BC_question": "2 — Le baromètre 2017 présente une note de satisfaction globale de 7,2/10. Comment interprétez-vous ce résultat ?",
+          "BD_answer": "Il met en lumière le nécessaire travail d’explication de la cotation. Si l’expertise des agents est soulignée, notre communication apparaît insuffisante tant sur les éléments utilisés pour déterminer la cotation que sur les informations portées sur le courrier de cotation. Le réseau est sensibilisé et déjà très investi dans cette démarche. Plus de 40 000 entretiens sont réalisés chaque année. Tout agent concerné du service des entreprises peut réaliser un rendez-vous et les agents du front office, pleinement dédiés à cette activité, sollicitent des entretiens et reçoivent tout dirigeant qui en fait la demande."
+        },
+        "question3": {
+          "BE_question": "3 — Quelles sont les pistes d’évolution de la cotation et du service rendu aux dirigeants ?",
+          "BF_answer": "Pour se conformer aux exigences de l’Eurosystème, une nouvelle échelle de cotation verra le jour en 2020. Elle permettra une appréciation plus fine du risque et devrait également mieux prendre en compte les spécificités liées à certains types d’entreprises. Le service de la méthodologie de la Direction des entreprises réfléchit par exemple à un nouveau modèle qui devrait s’adapter aux spécificités des startups.<br> Enfin, il nous paraît important d’arriver à faire évoluer nos lettres de cotation pour qu’elles soient à la fois plus simples et plus claires, mais, en même temps, qu’elles comportent une explication plus riche allant au-delà d’une simple capacité à honorer ses engagements financiers."
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "cotation-des-entreprises.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-2.svg"
+  },
+  "data3": {
+    "A_id": "3",
+    "B_title": "ÉDUCATION ÉCONOMIQUE ET FINANCIÈRE DES PUBLICS",
+    "C_leadIn​": "Mesquestionsdargent.fr, le nouveau portail dʼinformation grand public de la Banque de France, permet aux internautes de trouver rapidement et facilement les réponses claires et pédagogiques aux questions liées à lʼargent.",
+    "D_mark": "7,2",
+    "bloc1": {
+      "key1": {
+        "E_number": "300",
+        "F_text": "collaborateurs de la Banque de France formés pour être des formateurs EDUCFI"
+      },
+      "key2": {
+        "G_number": "14840",
+        "H_text": "intervenants sociaux rencontrés"
+      },
+      "key3": {
+        "I_number": "2638",
+        "J_text": "enseignants rencontrés"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL  MESQUESTIONSDARGENT.FR</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,2",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail mesquestionsdargent.fr",
+        "keys": {
+          "key1": {
+            "S_number": "7,4",
+            "T_text": "La pertinence des sujets apportés"
+          },
+          "key2": {
+            "U_number": "7,2",
+            "V_text": "Les informations sont claires et compréhensibles"
+          },
+          "key3": {
+            "W_number": "7,2",
+            "X_text": "La richesse du contenu, le nombre d’informations disponibles"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "6,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail mesquestionsdargent.fr",
+        "keys": {
+          "key1": {
+            "AI_number": "7,0",
+            "AJ_text": "La fluidité de navigation sur le portail"
+          },
+          "key2": {
+            "AK_number": "6,6",
+            "AL_text": "La facilité pour trouver des informations"
+          },
+          "key3": {
+            "AM_number": "6,8",
+            "AN_text": "L’accès aux outils : vidéo, lettre-type, guide..."
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "86",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "84",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "59",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée entre septembre 2017 et janvier 2018 auprès dʼutilisateurs du portail mesquestionsdargent.fr",
+      "AV_people": "Echantillon représentatif de 53 enquêtes complètes, constitué dʼutilisateurs du portail"
+    },
+    "bloc6": {
+      "AX_name": "Sofia Amach",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor"
+    },
+    "footer": {
+      "BG_download": "education-economique-et-financiere-des-publics.pdf"
+    },
+    "type": "video",
+    "pictogram": "service-3.svg"
+  },
+  "data4": {
+    "A_id": "4",
+    "B_title": "ENQUÊTES NATIONALES MENSUELLES DE CONJONCTURE",
+    "C_leadIn​": "La Banque de France publie des enquêtes de conjoncture : un diagnostic sur lʼéconomie française, sous la forme dʼindicateurs de climat des affaires et de prévisions à court terme.",
+    "D_mark": "7,4",
+    "bloc1": {
+      "key1": {
+        "E_number": "102000",
+        "F_text": "abonnés aux publications régionales et nationales"
+      },
+      "key2": {
+        "G_number": "15000",
+        "H_text": "entreprises répondent aux enquêtes de conjoncture"
+      },
+      "key3": {
+        "I_number": "24",
+        "J_text": "publications des enquêtes nationales mensuelles de conjoncture (12EMC et 12 « Commerce de détail »)"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>ENQUÊTES NATIONALES MENSUELLES DE CONJONCTURE</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,4",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les enquêtes nationales mensuelles de conjoncture",
+        "keys": {
+          "key1": {
+            "S_number": "7,3",
+            "T_text": "L’utilité des thèmes abordés"
+          },
+          "key2": {
+            "U_number": "7,2",
+            "V_text": "La bonne couverture sectorielle"
+          },
+          "key3": {
+            "W_number": "7,1",
+            "X_text": "La pertinence de la publication par rapport aux attentes"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "7,5",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des enquêtes nationales mensuelles de conjoncture",
+        "keys": {
+          "key1": {
+            "AI_number": "7,7",
+            "AJ_text": "La clarté de la rédaction"
+          },
+          "key2": {
+            "AK_number": "7,5",
+            "AL_text": "La facilité et l’agrément de lecture"
+          },
+          "key3": {
+            "AM_number": "7,6",
+            "AN_text": "Le format du texte"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "95",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "79",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 20 novembre au 15 décembre 2017 auprès des clients abonnés à lʼenquête nationale mensuelle de conjoncture",
+      "AV_people": "Echantillon représentatif de 134 enquêtes complètes, constitué de lecteurs abonnés"
+    },
+    "bloc6": {
+      "AX_name": "Magalie Debatte",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Quelles sont les vocations des enquêtes de conjonctures ?"
+        },
+        "question2": {
+          "BC_question": "2 — Quels domaines d'activités couvrent-elles ?"
+        },
+        "question3": {
+          "BE_question": "3 — Avec une note de satisfaction globale de 7,4 sur 10, quelles vont être les prochaines évolutions de ce service ?"
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "enquetes-nationales-mensuelles-de-conjoncture.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-4.svg"
+  },
+  "data5": {
+    "A_id": "5",
+    "B_title": "FICHIER BANCAIRE DES ENTREPRISES",
+    "C_leadIn​": "La base de données FIBEN (Fichier bancaire des entreprises) est un fichier de référence pour lʼensemble de la profession bancaire et pour les autres acteurs du financement des entreprises.",
+    "D_mark": "7,8",
+    "bloc1": {
+      "key1": {
+        "E_number": "456",
+        "F_text": "clients adhérents"
+      },
+      "key2": {
+        "G_number": "13,3 millions",
+        "H_text": "de consultations"
+      },
+      "key3": {
+        "I_number": "7,6 millions",
+        "J_text": "d’entreprises dans FIBEN"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "91",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> de <span class='semi-bold'>FIBEN</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,7",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le fichier bancaire des entreprises",
+        "keys": {
+          "key1": {
+            "S_number": "7,8",
+            "T_text": "La fiabilité sur la précision de la cotation"
+          },
+          "key2": {
+            "U_number": "7,7",
+            "V_text": "La facilité d’interprétation de la cotation"
+          },
+          "key3": {
+            "W_number": "7,5",
+            "X_text": "La précision de la cotation par rapport aux besoins"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "8,1",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> pour le fichier bancaire des entreprises",
+        "keys": {
+          "key1": {
+            "AA_number": "8,6",
+            "AB_text": "L’expertise de votre interlocuteur"
+          },
+          "key2": {
+            "AC_number": "8,5",
+            "AD_text": "La clarté des explications fournies"
+          },
+          "key3": {
+            "AE_number": "8,1",
+            "AF_text": "L’utilité des informations délivrées par votre interlocuteur"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "7,6",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> de FIBEN",
+        "keys": {
+          "key1": {
+            "AI_number": "8,4",
+            "AJ_text": "FIBEN est une banque de données de référence sur le marché"
+          },
+          "key2": {
+            "AK_number": "7,4",
+            "AL_text": "FIBEN met à disposition des informations exclusives"
+          },
+          "key3": {
+            "AM_number": "6,6",
+            "AN_text": "FIBEN est une banque de données d’un bon rapport qualité/prix"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "98",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "91",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "81",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 19 septembre au 23 octobre 2017 auprès des clients utilisateurs FIBEN selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 426 interviews constitué dʼutilisateurs de FIBEN"
+    },
+    "bloc6": {
+      "AX_name": "Patrick De Gouttes",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor"
+    },
+    "footer": {
+      "BG_download": "fichier-bancaire-des-entreprises.pdf"
+    },
+    "type": "video",
+    "pictogram": "service-5.svg"
+  },
+  "data6": {
+    "A_id": "6",
+    "B_title": "MODALITÉS DʼACCUEIL DU PUBLIC",
+    "C_leadIn​": "MODAC est un programme dʼamélioration de la qualité du service rendu par la mise en oeuvre dʼun accueil multicanal, en réponse aux demandes dʼinformation, dʼécoute ou dʼassistance du public.",
+    "D_mark": "8,0",
+    "bloc1": {
+      "key1": {
+        "E_number": "710 000",
+        "F_text": "visiteurs à ses guichets"
+      },
+      "key2": {
+        "G_number": "2,5 millions",
+        "H_text": "d’appels téléphoniques entrants"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>MODALITÉS DʼACCUEIL DU PUBLIC</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "8,1",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les modalités d'accueil du public",
+        "keys": {
+          "key1": {
+            "S_number": "8,1",
+            "T_text": "La pertinence de la réponse apportée"
+          },
+          "key2": {
+            "U_number": "8,2",
+            "V_text": "La clarté et la facilité de compréhension de la réponse apportée"
+          },
+          "key3": {
+            "W_number": "8,1",
+            "X_text": "L’exhaustivité de la réponse apportée"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "8,3",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> par les modalités d'accueil du public",
+        "keys": {
+          "key1": {
+            "AA_number": "8,5",
+            "AB_text": "La courtoisie de la réponse ou le ton de la réponse"
+          },
+          "key2": {
+            "AC_number": "8,6",
+            "AD_text": "La disponibilité / L’implication de l’agent pendant l’entretien"
+          },
+          "key3": {
+            "AE_number": "7,2",
+            "AF_text": "Le délai de réponse à une demande web"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "8,2",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des modalités d'accueil du public",
+        "keys": {
+          "key1": {
+            "AI_number": "8,3",
+            "AJ_text": "La simplicité d’utilisation du formulaire"
+          },
+          "key2": {
+            "AK_number": "8,1",
+            "AL_text": "La facilité d’accès au formulaire de contact sur le site internet"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "91",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "85",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "72",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 14 décembre au 30 janvier 2018 auprès de particuliers qui sont entrés en relation avec la Banque de France",
+      "AV_people": "Echantillon représentatif de 511 enquêtes complètes, constitué de particuliers"
+    },
+    "footer": {
+      "BG_download": "modalites-d-accueil-du-public.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-6.svg"
+  },
+  "data7": {
+    "A_id": "7",
+    "B_title": "SERVICES BANCAIRES AUX CLIENTS INSTITUTIONNELS",
+    "C_leadIn​": "La Banque de France gère lʼapplication de banque en ligne BDFDirect2 et la tenue de compte pour la clientèle institutionnelle, grands comptes et Trésor.",
+    "D_mark": "7,5",
+    "bloc1": {
+      "key1": {
+        "E_number": "150",
+        "F_text": "clients"
+      },
+      "key2": {
+        "G_number": "1530",
+        "H_text": "utilisateurs de la Banque en ligne BDFDirect2"
+      },
+      "key3": {
+        "I_number": "6056",
+        "J_text": "comptes clients"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "81",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>SERVICES BANCAIRES AUX CLIENTS INSTITUTIONNELS</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les services bancaires aux clients institutionnels",
+        "keys": {
+          "key1": {
+            "S_number": "8,1",
+            "T_text": "Le suivi des ordres et étapes de validation des ordres"
+          },
+          "key2": {
+            "U_number": "8,2",
+            "V_text": "La facilité de téléchargement des fichiers d’ordre"
+          },
+          "key3": {
+            "W_number": "7,8",
+            "X_text": "La facilité de saisie des virements en euro ou en devise étrangère"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "7,6",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> des services bancaires aux clients institutionnels",
+        "keys": {
+          "key1": {
+            "AA_number": "7,7",
+            "AB_text": "Le délai de réponse"
+          },
+          "key2": {
+            "AC_number": "8,0",
+            "AD_text": "La disponibilité"
+          },
+          "key3": {
+            "AE_number": "7,8",
+            "AF_text": "La qualité des réponses fournies"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "7,2",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des services bancaires aux clients institutionnels",
+        "keys": {
+          "key1": {
+            "AI_number": "7,2",
+            "AJ_text": "Le caractère pertinent des informations mises à disposition"
+          },
+          "key2": {
+            "AK_number": "7,1",
+            "AL_text": "Le guide en ligne"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "94",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "88",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "83",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 2 octobre au 6 novembre 2017 auprès des utilisateurs de BDFDirect2",
+      "AV_people": "Echantillon représentatif de 116 enquêtes complètes, constitué dʼutilisateurs de BDFDirect2"
+    },
+    "bloc6": {
+      "AX_name": "Dominique Othelet",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Pourriez-vous nous rappeler en quoi consistent les services bancaires délivrés par BDF et ce qu'apporte l'application en ligne BDFDirect2 ?",
+          "BB_answer": "La Direction des services bancaires gère le compte unique du Trésor public dans le cadre d'une convention signée avec le ministère de l'Économie et des Finances et, à ce titre, les comptes d'opérations comptables publiques. Elle offre une gamme de services bancaires en procédant à la tenue du compte, ainsi qu'à tous les recouvrements des opérations du Trésor public (prélèvements dans le cadre du recouvrement des impôts, amendes, virements de salaires de la fonction publique…). Tous les flux sont recouvrés par la BDF au travers des systèmes d'échanges. Pour faciliter la vie des comptables publics et dans le cadre de recherche de gains de productivité, elle met à leur disposition un outil de banque en ligne : BDFDirect. Ils peuvent ainsi émettre des ordres de paiement et ont accès à leur compte pour voir les relevés d'opérations. BDF direct permet aussi une gestion fine de la trésorerie de l'État par l'Agence France Trésor."
+        },
+        "question2": {
+          "BC_question": "2 — Comment interprétez-vous la note globale de l'enquête ?",
+          "BD_answer": "La note globale porte sur l'outil BDFDirect, mais un chiffre important concerne également l'appréciation de la relation clientèle. La note de satisfaction de 7,5/10 évaluant l'outil est un bon score. Elle montre que nous avons su être particulièrement à l'écoute de nos clients en tenant compte de leurs remarques. Nous avons ainsi apporté des améliorations dans le processus de mise en place de l'outil, qui est par ailleurs reconnu comme ergonomique et assez convivial dans les prises d'ordre et consultations de compte. Sur le score global des services rendus, et c'est un point positif, 81% des clients se déclarent satisfaits. Ils apprécient particulièrement notre expertise indépendante et notre accompagnement sur les changements règlementaires et des moyens de paiement.      "
+        },
+        "question3": {
+          "BE_question": "3 — Quels sont les évolutions envisagées pour l'année à venir ?",
+          "BF_answer": "L'un de nos premiers défis sera d'accompagner les services de l'État au passage du prélèvement de l'impôt à la source. Un changement informatique majeur est également attendu en 2018 avec la rénovation du système informatique de gestion des paiements de masse (projet EVOMPM). "
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "services-bancaires-aux-clients-institutionnels.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-7.svg"
+  },
+  "data8": {
+    "A_id": "8",
+    "B_title": "SERVICES FIDUCIAIRES",
+    "C_leadIn​": "La Banque de France assure lʼentretien de la monnaie fiduciaire et gère la bonne qualité de sa circulation sur le territoire national, par lʼintermédiaire des établissements de crédit et des transporteurs de fonds.",
+    "D_mark": "7,8",
+    "bloc1": {
+      "key1": {
+        "E_number": "184",
+        "F_text": "interlocuteurs des « Transporteurs de fonds » et <span class='bold'>382</span> des « Responsables espèces des Etablissements de Crédit »"
+      },
+      "key2": {
+        "G_number": "6 milliards",
+        "H_text": "de billets prélevés auprès des guichets"
+      },
+      "key3": {
+        "I_number": "5,7 millions",
+        "J_text": "de billets versés aux guichets"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "97",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>SERVICES FIDUCIAIRES</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les services fiduciaires",
+        "keys": {
+          "key1": {
+            "S_number": "7,7",
+            "T_text": "Les fonctionnalités du Portail Interop Assistance"
+          },
+          "key2": {
+            "U_number": "8,0",
+            "V_text": "Les opérations de prélèvements et de versements"
+          },
+          "key3": {
+            "W_number": "7,7",
+            "X_text": "La préparation à l’émission d’une nouvelle coupure"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "7,8",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> des services fiduciaires",
+        "keys": {
+          "key1": {
+            "AA_number": "8,1",
+            "AB_text": "L’expertise de mon interlocuteur"
+          },
+          "key2": {
+            "AC_number": "7,4",
+            "AD_text": "La capacité de mon interlocuteur à connaître mes besoins"
+          },
+          "key3": {
+            "AE_number": "7,3",
+            "AF_text": "Sa capacité à animer et à coordonner une cellule de crise au niveau national et/ou au niveau local"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "7,7",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des services fiduciaires",
+        "keys": {
+          "key1": {
+            "AI_number": "7,9",
+            "AJ_text": "Le niveau d’information donné sur le site internet par rapport à mes besoins"
+          },
+          "key2": {
+            "AK_number": "7,7",
+            "AL_text": "Le niveau d’information sur l’évolution des normes de conditionnement et des procédures aux guichets de la banque de France"
+          },
+          "key3": {
+            "AM_number": "8,7",
+            "AN_text": "L’adéquation de la formation à l’authentification des billets reçue par rapport aux besoins de mon établissement"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "97",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "84",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "81",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 20 au 30 juin 2017 auprès de représentants des établissements de crédit et des transporteurs de fonds selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 158 interviews, constitué des clients des Services Fiduciaires"
+    },
+    "bloc6": {
+      "AX_name": "Cédric Koczor",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Que pensez-vous de la modernisation des services fiduciaires (outils, process et services) mis en place dans les caisses de la Banque de France ?"
+        },
+        "question2": {
+          "BC_question": "2 — Partagez-vous les résultats de l'enquête ?"
+        },
+        "question3": {
+          "BE_question": "3 — Qu'est ce qui pourrait être amélioré parmi nos services ?"
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "services-fiduciaires.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-8.svg"
+  },
+  "data9": {
+    "A_id": "9",
+    "B_title": "PORTAIL DU SURENDETTEMENT",
+    "C_leadIn​": "Afin de faciliter la communication avec les acteurs externes à la Banque de France (commissaires et créanciers), un portail du surendettement a été mis en place pour simplifier lʼaccès aux documents.",
+    "D_mark": "6,1",
+    "bloc1": {
+      "key1": {
+        "E_number": "9903",
+        "F_text": "créanciers du Trésor et autres créanciers"
+      },
+      "key2": {
+        "G_number": "1255",
+        "H_text": "commissaires et assistants commissions"
+      },
+      "key3": {
+        "I_number": "179000",
+        "J_text": "dossiers de surendettement résolus"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "63",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL DU SURENDETTEMENT</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "6,5",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail du surendettement",
+        "keys": {
+          "key1": {
+            "S_number": "6,5",
+            "T_text": "L’accès/l’utilisation du Portail"
+          },
+          "key2": {
+            "U_number": "7,1",
+            "V_text": "L’utilité des informations disponibles"
+          },
+          "key3": {
+            "W_number": "6,9",
+            "X_text": "La qualité des informations disponibles"
+          }
+        }
+      },
+      "mark2": {
+        "Y_number": "7,0",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> du portail surendettement",
+        "keys": {
+          "key1": {
+            "AA_number": "7,4",
+            "AB_text": "Le délai de réponse"
+          },
+          "key2": {
+            "AC_number": "7,3",
+            "AD_text": "La clarté et la facilité de compréhension de la réponse apportée"
+          },
+          "key3": {
+            "AE_number": "7,2",
+            "AF_text": "L’exhaustivité de la réponse apportée"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "6,0",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail surendettement",
+        "keys": {
+          "key1": {
+            "AI_number": "6,4",
+            "AJ_text": "La facilité et l’agrément de lecture"
+          },
+          "key2": {
+            "AK_number": "5,8",
+            "AL_text": "La fluidité de navigation sur le portail"
+          },
+          "key3": {
+            "AM_number": "5,6",
+            "AN_text": "La facilité pour trouver les informations"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "88",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "69",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 5 décembre 2017 au 9 janvier 2018 auprès dʼutilisateurs du portail du Surendettement",
+      "AV_people": "Echantillon représentatif de 1 518 enquêtes complètes, constitué dʼutilisateurs du portail"
+    },
+    "bloc6": {
+      "AX_name": "Stéphane Tourte",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Quels sont les objectifs de ce nouveau portail ? A qui s'adresse-t-il ?",
+          "BB_answer": "L'objectif stratégique et partagé est de dématérialiser les échanges dans le cadre de la procédure de surendettement, soit plus de 7 millions de flux de courriers papier. Nous avons pour cela développé un portail à destination des commissaires et un portail créanciers, subdivisé en un portail créanciers publics (Direction générale des finances publiques) et un portail autres créanciers (établissements de crédits, assureurs…). Un portail pour les tribunaux d'instance est également en phase d'expérimentation. L'architecture est identique, mais les fonctionnalités divergent : le portail commissaires est uniquement destiné à la consultation, celui des créanciers et des tribunaux permet l'échange des flux. Outre l'économie d'une chaîne de papier chronophage, leur intérêt est de ne nécessiter aucun coût informatique de développement pour s'y connecter. "
+        },
+        "question2": {
+          "BC_question": "2 — Comment interprétez-vous les résultats de l'enquête ?",
+          "BD_answer": "Ces mises en production récentes nécessitent une phase de rodage avec un petit décalage de perception de l'utilisateur qui doit s'approprier un nouvel outil et une nouvelle façon de travailler. Tous nos portails ont été construits avec une véritable expression des besoins issue de groupes de travail et comités de pilotage intégrant la chancellerie, la DGFIP et, pour le portail créanciers, un club utilisateurs, avec des retours positifs. Nous restons confiants sur la possibilité d'amélioration de la perception des portails et sur notre capacité à augmenter le pourcentage d'utilisateurs satisfaits grâce, notamment, à la mise en place d'une formation spécifique à destination des établissements de crédit. "
+        },
+        "question3": {
+          "BE_question": "3 — Quels sont les enjeux pour l'avenir ?",
+          "BF_answer": "Le déploiement du portail DGFIP, intégralement réalisé, permettra d'économiser en 2018 500 000 courriers papiers et c'est une victoire partagée. Il nous reste à déployer avec succès le portail pour les tribunaux d'instance, un enjeu immédiat puisque l'expérimentation débute en mai. L'objectif est également de multiplier par 3 le nombre d'utilisateurs du portail créanciers pour accroître la part d'échanges dématérialisés. Nous travaillons enfin à une assistance utilisateurs performante, à former et à accompagner les nouveaux utilisateurs dans la phase de bascule, ainsi qu'à communiquer en établissant de régulières relations de confiance."
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "portail-du-surendettement.pdf"
+    },
+    "type": "text",
+    "pictogram": "service-9.svg"
+  },
+  "data10": {
+    "A_id": "10",
+    "B_title": "PORTAIL WEBSTAT",
+    "C_leadIn​": "Le Portail Webstat est la base interactive de données de séries statistiques de la Banque de France.",
+    "D_mark": "7,1",
+    "bloc1": {
+      "key1": {
+        "E_number": "35000",
+        "F_text": "séries statistiques diffusées"
+      },
+      "key2": {
+        "G_number": "72600",
+        "H_text": "visites, en moyenne, mensuelles sur le portail"
+      },
+      "key3": {
+        "I_number": "17300",
+        "J_text": "entités, en moyenne, visitant le site chaque mois"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "86",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL WEBSTAT</span>"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,5",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail du Webstat",
+        "keys": {
+          "key1": {
+            "S_number": "7,4",
+            "T_text": "La bonne couverture sectorielle"
+          },
+          "key2": {
+            "U_number": "8,0",
+            "V_text": "La richesse du contenu"
+          },
+          "key3": {
+            "W_number": "7,7",
+            "X_text": "L’actualisation des données"
+          }
+        }
+      },
+      "mark3": {
+        "AG_number": "6,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail Webstat",
+        "keys": {
+          "key1": {
+            "AI_number": "6,9",
+            "AJ_text": "La facilité et l’agrément de lecture"
+          },
+          "key2": {
+            "AK_number": "7,3",
+            "AL_text": "Le format des articles"
+          },
+          "key3": {
+            "AM_number": "6,2",
+            "AN_text": "La fluidité de navigation sur le portail"
+          }
+        }
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "96",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "79",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 13 octobre au 6 décembre 2017 auprès dʼutilisateurs abonnés au Portail Webstat",
+      "AV_people": "Echantillon représentatif de 112 enquêtes complètes, constitué dʼutilisateurs abonnés au portail"
+    },
+    "footer": {
+      "BG_download": "portail-webstat.pdf"
+    },
+    "type": "picture",
+    "pictogram": "service-10.svg"
+  },
+  "main": {
+    "A_id": "11",
+    "B_title": "RESULTATS GLOBAUX",
+    "C_leadIn​": "BAROMÈTRE 2018 DE LA QUALITÉ DES SERVICES RENDUS PAR LA BANQUE DE FRANCE",
+    "D_mark": "7,4",
+    "bloc2": {
+      "mainKey": {
+        "K_number": "86",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des services rendus par la Banque de France"
+      },
+      "keys": []
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,5",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté par la Banque de France</span> "
+      },
+      "mark2": {
+        "Y_number": "7,8",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs de la Banque de france</span>"
+      },
+      "mark3": {
+        "AG_number": "7,3",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information de la Banque de France</span>"
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "93",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "84",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "75",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquêtes nationales mensuelles de conjoncture, Blog Economique, Portail Webstat, Services fiduciaires, Services bancaires aux clients institutionnels, Fichier bancaire des entreprises, Cotation des entreprises, Portail du Surendettement, Modalités dʼaccueil du public, Education économique et financière des publics.",
+      "AV_people": "Les notes indiquées résultent de la moyenne non pondérée des produits et services évalués."
+    },
+    "footer": {
+      "BG_download": "resultats-globaux.pdf"
+    },
+    "type": "text"
+  }
+}

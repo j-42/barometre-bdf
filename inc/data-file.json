@@ -1,0 +1,1621 @@
+{
+  "data1": {
+    "A_id": "1",
+    "B_title": "BLOG ECONOMIQUE",
+    "C_leadIn​": "Bloc - notes Eco publie de cour tes analyses pédagogiques, appelées billets (posts en anglais)\rqui présentent la recherche et lʼexpertise économique de la Banque de France.",
+    "D_mark": "7,7",
+    "bloc1": {
+      "key1": {
+        "E_number": "42",
+        "F_text": "billets postés"
+      },
+      "key2": {
+        "G_number": "2800",
+        "H_text": "abonnés"
+      },
+      "key3": {
+        "I_number": "",
+        "J_text": ""
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "90",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>BLOG ÉCONOMIQUE</span>"
+      },
+      "keys": [
+        "40",
+        "50",
+        "10",
+        "0"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> pour le blog économique",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "8,0",
+            "T_text": "Le format des articles : ni trop ni pas assez denses",
+            "_picto_1_1": "blog_eco_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "7,6",
+            "V_text": "L’articulation entre les graphiques et les textes",
+            "_picto_1_2": "blog_eco_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "",
+            "X_text": "",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "",
+        "Z_text": "",
+        "_picto_2": "",
+        "keys": {
+          "key1": {
+            "AA_number": "",
+            "AB_text": "",
+            "_picto_2_1": "",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "",
+            "AD_text": "",
+            "_picto_2_2": "",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "",
+            "AF_text": "",
+            "_picto_2_3": "",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "6,7",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du blog économique",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "6,8",
+            "AJ_text": "La présentation de la page d’accueil",
+            "_picto_3_1": "blog_eco_3.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "6,7",
+            "AL_text": "La fluidité de navigation sur le blog",
+            "_picto_3_2": "blog_eco_4.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "6,6",
+            "AN_text": "L’organisation et la lisibilité des autres pages du blog",
+            "_picto_3_3": "blog_eco_5.svg",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "92",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "85",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "75",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 9 au 29 janvier 2018 auprès dʼutilisateurs abonnés du Blog Economique",
+      "AV_people": "Echantillon représentatif de 48 enquêtes complètes, constitué dʼutilisateurs abonnés"
+    },
+    "bloc6": {
+      "AW_title": "Blog économique ",
+      "type": "Interview",
+      "AX_name": "avec Soledad Zignago",
+      "function": "Économiste",
+      "AY_img": "",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "",
+          "BB_answer": ""
+        },
+        "question2": {
+          "BC_question": "",
+          "BD_answer": ""
+        },
+        "question3": {
+          "BE_question": "",
+          "BF_answer": ""
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "blog-economique.pdf"
+    },
+    "type": "video",
+    "pictogram": "<svg class=\"service-svg cls service-1\" viewbox=\"0 0 377 324.22\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M376.5,248.87V124.46a10,10,0,0,0-6.55-9.39L195.41,50.84a20,20,0,0,0-13.82,0L7.05,115.07A10,10,0,0,0,.5,124.46V248.87a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0L370,258.26A10,10,0,0,0,376.5,248.87Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2\" data-ignore=\"true\" points=\"264.84 296.97 264.84 103.43 92.86 40.21 92.86 272.43 212.38 316.36\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3 grey\" data-ignore=\"true\" points=\"241.14 305.69 97.39 249.91 97.39 58.66 260.31 121.88 260.31 298.64\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4\" d=\"M274.73,66.16,146.36,19.69l-.66-.22a22.52,22.52,0,0,0-30.28,21.12V256.91l125.72,48.78,1.14-.42V86.34a22.5,22.5,0,0,1,22.5-22.5Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M287.32,154a22.44,22.44,0,0,0,9.82,18.58l0,0-32.33-12.16V103.43l-22.56-8.29.08-8.74a22.48,22.48,0,0,1,45,0Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4\" d=\"M287.32,154a22.48,22.48,0,1,0,45,0l-45-16Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M92.85,40.21h9.07c.11,0,13.5,4.91,13.5,4.91v3.39Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"242.32 91.4 274.73 103.43 264.84 103.43 242.28 95.14 242.32 91.4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"274.73 293.33 274.73 103.43 264.84 103.43 264.84 296.97 274.73 293.33\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-8\" cx=\"173.46\" cy=\"290.58\" data-ignore=\"true\" rx=\"3.87\" ry=\"7.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-8\" d=\"M173.56,294.63l-.73-.28a.76.76,0,0,1-.5-.71v-5.9a.76.76,0,0,1,1.06-.69l.73.32a.75.75,0,0,1,.46.69v5.86A.76.76,0,0,1,173.56,294.63Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-7 grey\" data-ignore=\"true\" points=\"183.21 260.95 177.9 259 177.9 251.24 183.21 253.42 183.21 260.95\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-7 grey\" data-ignore=\"true\" points=\"193.83 264.82 188.52 262.9 188.52 221.69 193.83 223.87 193.83 264.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-7 grey\" data-ignore=\"true\" points=\"204.46 268.74 199.14 266.81 199.14 247.91 204.46 250.09 204.46 268.74\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-7 grey\" data-ignore=\"true\" points=\"215.08 272.66 209.77 270.69 209.77 240.77 215.08 242.95 215.08 272.66\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-5 grey\" cx=\"148.81\" cy=\"98.68\" data-ignore=\"true\" rx=\"16.57\" ry=\"22.7\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" points=\"148.81 75.97 148.81 98.68 165.38 98.68\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" points=\"161.08 83.43 148.81 98.68 141.41 118.99\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"174.15\" x2=\"231.38\" y1=\"99.88\" y2=\"120.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"173.87\" x2=\"231.38\" y1=\"110.67\" y2=\"131.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"231.38\" y1=\"139.15\" y2=\"177.03\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"231.38\" y1=\"150.05\" y2=\"187.93\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"231.38\" y1=\"162.01\" y2=\"199.89\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"231.38\" y1=\"184.88\" y2=\"222.76\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"128.33\" x2=\"231.38\" y1=\"240.77\" y2=\"278.65\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"163.34\" y1=\"218.84\" y2=\"231.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"128.33\" x2=\"163.34\" y1=\"225.33\" y2=\"238.2\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"86.46\" x2=\"86.46\" y1=\"0.5\" y2=\"13.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"92.8\" x2=\"80.12\" y1=\"6.84\" y2=\"6.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"305.41\" x2=\"305.41\" y1=\"232.85\" y2=\"245.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"311.75\" x2=\"299.07\" y1=\"239.18\" y2=\"239.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"56.04\" x2=\"47.08\" y1=\"157.68\" y2=\"166.64\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" x1=\"56.04\" x2=\"47.08\" y1=\"166.64\" y2=\"157.68\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "https://www.youtube.com/embed/MGK6sikHkL4",
+    "video_placeholder": "soledad-zignago.jpg",
+    "image_url": ""
+  },
+  "data2": {
+    "A_id": "2",
+    "B_title": "COTATION DES ENTREPRISES",
+    "C_leadIn​": "La cotation de la Banque de France est une appréciation sur la capacité dʼune entreprise, domiciliée en France, à honorer ses engagements financiers à un horizon de trois ans.",
+    "D_mark": "7,2",
+    "bloc1": {
+      "key1": {
+        "E_number": "261516",
+        "F_text": "entreprises non ﬁnancières cotées (essentiellement des PME) "
+      },
+      "key2": {
+        "G_number": "96%",
+        "H_text": "des entreprises cotées afﬁchent un chiffre d’affaires inférieur à 50 millions d’euros"
+      },
+      "key3": {
+        "I_number": "41000",
+        "J_text": "entretiens de cotation"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "84",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> de la prestation <span class='semi-bold'>COTATION DES ENTREPRISES</span>"
+      },
+      "keys": [
+        "20",
+        "64",
+        "13",
+        "3"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,1",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> pour la cotation des entreprises",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,0",
+            "T_text": "La cotation est pertinente, objective",
+            "_picto_1_1": "cotation_des_entreprises_1.svg",
+            "S2016_number": "6,3"
+          },
+          "key2": {
+            "U_number": "6,9",
+            "V_text": "La cotation prend en compte la réalité de mon entreprise",
+            "_picto_1_2": "cotation_des_entreprises_2.svg",
+            "U2016_number": "6,2"
+          },
+          "key3": {
+            "W_number": "6,8",
+            "X_text": "Les méthodes utilisées pour déterminer cette cotation sont claires et compréhensibles",
+            "_picto_1_3": "cotation_des_entreprises_3.svg",
+            "W2016_number": "6,0"
+          }
+        },
+        "Q2016_number": "6,9"
+      },
+      "mark2": {
+        "Y_number": "8,0",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> pour la cotation des entreprises",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "8,4",
+            "AB_text": "L’interlocuteur a été compétent",
+            "_picto_2_1": "cotation_des_entreprises_4.svg",
+            "AA2016_number": "7,7"
+          },
+          "key2": {
+            "AC_number": "8,0",
+            "AD_text": "Les explications fournies sont claires",
+            "_picto_2_2": "cotation_des_entreprises_5.svg",
+            "AC2016_number": "7,2"
+          },
+          "key3": {
+            "AE_number": "8,0",
+            "AF_text": "Mon interlocuteur s’est intéressé à mon entreprise, a compris ma problématique",
+            "_picto_2_3": "cotation_des_entreprises_6.svg",
+            "AE2016_number": "7,4"
+          }
+        },
+        "Y2016_number": "7,0"
+      },
+      "mark3": {
+        "AG_number": "7,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> de la cotation des entreprises",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "7,2",
+            "AJ_text": "Les informations fournies par la lettre de cotation sont sufﬁsantes",
+            "_picto_3_1": "cotation_des_entreprises_7.svg",
+            "AI2016_number": "6,3"
+          },
+          "key2": {
+            "AK_number": "7,9",
+            "AL_text": "L’objet de la lettre de cotation apparaît clairement",
+            "_picto_3_2": "cotation_des_entreprises_8.svg",
+            "AK2016_number": "6,8"
+          },
+          "key3": {
+            "AM_number": "7,8",
+            "AN_text": "La lettre de cotation et le document explicatif sont clairs et bien présentés",
+            "_picto_3_3": "cotation_des_entreprises_9.svg",
+            "AM2016_number": "7,1"
+          }
+        },
+        "AG2016_number": "6,8"
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "92",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "77",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "67",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 16 octobre au 24 novembre 2017 auprès dʼentreprises cotées ayant eu un entretien de cotation selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 285 interviews, constitué dʼentreprises cotées"
+    },
+    "bloc6": {
+      "AW_title": "Cotation des entreprises : \run outil qui instaure la confiance",
+      "type": "Interview",
+      "AX_name": "avec Catherine Birkner",
+      "function": "Responsable des Relations Entreprises",
+      "AY_img": "catherine-birkner.jpg",
+      "AZ_quote": "La cotation des entreprises est essentielle dans le cadre du dialogue avec les établissements de crédits",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — En quoi la cotation des entreprises est-elle utile&nbsp;?",
+          "BB_answer": "Elle est utile pour les entreprises parce qu’elle fournit une indication de leur positionnement sur l’échelle du risque de crédit. Elle est essentielle dans le cadre du dialogue avec les établissements de crédit, notamment en cas de demande de financement. Elle est aussi souvent exigée dans les réponses aux appels d’offres. La cotation est enfin utilisée en matière d’assurance-crédit et de plus en plus demandée par les fournisseurs dans le cadre d’octroi de délai de paiement avance et acompte sur commande. "
+        },
+        "question2": {
+          "BC_question": "2 — Le baromètre 2017 présente une note de satisfaction globale de 7,2/10. Comment interprétez-vous ce résultat&nbsp;?",
+          "BD_answer": "Il met en lumière le nécessaire travail d’explication de la cotation. Si l’expertise des agents est soulignée, notre communication apparaît insuffisante tant sur les éléments utilisés pour déterminer la cotation que sur les informations portées sur le courrier de cotation. Le réseau est sensibilisé et déjà très investi dans cette démarche. Plus de 40 000 entretiens sont réalisés chaque année. Tout agent concerné du service des entreprises peut réaliser un rendez-vous et les agents du front office, pleinement dédiés à cette activité, sollicitent des entretiens et reçoivent tout dirigeant qui en fait la demande."
+        },
+        "question3": {
+          "BE_question": "3 — Quelles sont les pistes d’évolution de la cotation et du service rendu aux dirigeants&nbsp;?",
+          "BF_answer": "Pour se conformer aux exigences de l’Eurosystème, une nouvelle échelle de cotation verra le jour en 2020. Elle permettra une appréciation plus fine du risque et devrait également mieux prendre en compte les spécificités liées à certains types d’entreprises. Le service de la méthodologie de la Direction des entreprises réfléchit par exemple à un nouveau modèle qui devrait s’adapter aux spécificités des startups.<br> Enfin, il nous paraît important d’arriver à faire évoluer nos lettres de cotation pour qu’elles soient à la fois plus simples et plus claires, mais, en même temps, qu’elles comportent une explication plus riche allant au-delà d’une simple capacité à honorer ses engagements financiers."
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "cotation-des-entreprises.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-2\" viewbox=\"0 0 378 324.67\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.82V124.41a10,10,0,0,0-6.55-9.39L195.91,50.79a20,20,0,0,0-13.82,0L7.55,115A10,10,0,0,0,1,124.41V248.82a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,248.82Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2\" d=\"M222.32,312.77l-22.21,8.12L197,322a20.28,20.28,0,0,1-15.89,0l-4.82-1.78-36.5-13.4V37.57l82.54,41.15Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3 grey\" data-ignore=\"true\" points=\"73.71 90.58 73.71 46.62 139.78 37.57 139.78 306.9 73.71 282.56 73.71 265.67\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3 grey\" data-ignore=\"true\" x1=\"73.71\" x2=\"73.71\" y1=\"264.84\" y2=\"112.65\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"139.78\" x2=\"222.32\" y1=\"54.03\" y2=\"95.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 119.41 150.58 88.24 150.58 75.51 213.1 119.41\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 144.87 150.58 113.69 150.58 100.97 213.1 144.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 170.32 150.58 139.15 150.58 126.42 213.1 170.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 195.75 150.58 164.58 150.58 151.85 213.1 195.75\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 221.23 150.58 190.06 150.58 177.33 213.1 221.23\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 246.69 150.58 215.52 150.58 202.79 213.1 246.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 272.14 150.58 240.97 150.58 228.25 213.1 272.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"213.1 297.6 150.58 266.43 150.58 253.7 213.1 297.6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 144.87 150.58 113.69 150.58 100.97 213.1 132.14 213.1 144.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 170.32 150.58 139.15 150.58 126.42 213.1 157.59 213.1 170.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 195.78 150.58 164.61 150.58 151.88 213.1 183.05 213.1 195.78\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 221.23 150.58 190.06 150.58 177.33 213.1 208.51 213.1 221.23\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 246.69 150.58 215.52 150.58 202.79 213.1 233.96 213.1 246.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 272.14 150.58 240.97 150.58 228.25 213.1 259.42 213.1 272.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 297.6 150.58 266.43 150.58 253.7 213.1 284.87 213.1 297.6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"249.86 302.65 222.32 312.77 222.32 118.94 249.86 115.17 249.86 302.65\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2\" data-ignore=\"true\" points=\"309.91 280.49 249.86 302.65 249.86 115.17 309.91 145.11 309.91 280.49\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"249.86\" x2=\"309.91\" y1=\"127.14\" y2=\"157.09\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 174.72 257.71 152.04 257.71 142.78 303.2 174.72\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 193.24 257.71 170.56 257.71 161.3 303.2 193.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 211.76 257.71 189.08 257.71 179.82 303.2 211.76\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 230.28 257.71 207.6 257.71 198.34 303.2 230.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 248.8 257.71 226.12 257.71 216.86 303.2 248.8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"303.2 267.32 257.71 244.64 257.71 235.38 303.2 267.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"299.88 284.19 257.71 263.17 257.71 253.9 300.51 283.96 299.88 284.19\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5 grey\" data-ignore=\"true\" points=\"278.53 292.07 257.71 281.69 257.71 272.43 283.19 290.32 278.53 292.07\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 193.24 257.71 170.56 257.71 161.3 303.2 183.98 303.2 193.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 211.76 257.71 189.08 257.71 179.82 303.2 202.5 303.2 211.76\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 230.28 257.71 207.6 257.71 198.34 303.2 221.02 303.2 230.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 248.8 257.71 226.12 257.71 216.86 303.2 239.54 303.2 248.8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 267.32 257.71 244.64 257.71 235.38 303.2 258.06 303.2 267.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" data-ignore=\"true\" points=\"299.88 284.19 257.71 263.17 257.71 253.9 303.2 276.58 303.2 282.96\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"278.53 292.07 257.71 281.69 257.71 272.43 289.2 288.13 278.53 292.07\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"331.85\" x2=\"331.85\" y1=\"272.43\" y2=\"262.23\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M335,268.68a8.53,8.53,0,0,0,3.12-6.45c0-9.44-4-14.64-6.24-14.64s-4.48,9.68-3.16,12.47\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M336.86,266.5a22.46,22.46,0,0,1,2.4,3.19L325,274.94c-2.63-5.59,4.24-16.05,5.42-17.31\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"66.56\" x2=\"66.56\" y1=\"279.94\" y2=\"231.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M73.13,245.55a18,18,0,0,0,6.58-13.63C79.71,212,71.31,201,66.56,201s-9.47,20.43-6.67,26.31\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M63.48,222.22c-3.36,3.59-28.55,42.49,3.08,43.89,35.5,1.57,10.56-25.17,10.56-25.17\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"213.1 119.41 150.58 88.24 150.58 75.51 213.1 106.68 213.1 119.41\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"303.2 174.72 257.71 152.04 257.71 142.78 303.2 165.46 303.2 174.72\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M276.16,86.68A13.85,13.85,0,1,1,290,72.83\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" data-ignore=\"true\" points=\"276.16 58.98 276.16 72.83 290.01 72.83\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" data-ignore=\"true\" points=\"287.05 64.27 276.16 72.83 273.02 86.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6\" d=\"M90.71,102.4h-.09a11.32,11.32,0,0,0,.09-1.43,11.67,11.67,0,0,0-22.5-4.37,8.55,8.55,0,0,0-4.4-1.22,8.64,8.64,0,0,0,0,17.27h26.9a5.13,5.13,0,1,0,0-10.25Z\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6\" d=\"M279.38,85.93h.1a11.32,11.32,0,0,1-.1-1.43,11.58,11.58,0,0,1,11.47-11.68,11.45,11.45,0,0,1,10.62,7.31,8.27,8.27,0,0,1,4.32-1.22,8.63,8.63,0,0,1,0,17.26H279.38a5.13,5.13,0,0,1,0-10.25Z\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"137.06\" x2=\"137.06\" y1=\"0.5\" y2=\"13.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"143.4\" x2=\"130.72\" y1=\"6.84\" y2=\"6.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"338.83\" x2=\"338.83\" y1=\"166.11\" y2=\"178.79\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"345.17\" x2=\"332.49\" y1=\"172.45\" y2=\"172.45\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"59.67\" x2=\"50.7\" y1=\"170.23\" y2=\"179.2\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"59.67\" x2=\"50.7\" y1=\"179.2\" y2=\"170.23\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data3": {
+    "A_id": "3",
+    "B_title": "ÉDUCATION ÉCONOMIQUE\nET FINANCIÈRE DES PUBLICS",
+    "C_leadIn​": "Mesquestionsdargent.fr, le nouveau portail dʼinformation grand public de la Banque de France, permet aux\ninternautes de trouver rapidement et facilement les réponses claires et pédagogiques aux questions liées à lʼargent.",
+    "D_mark": "7,2",
+    "bloc1": {
+      "key1": {
+        "E_number": "300",
+        "F_text": "collaborateurs de la Banque de France formés pour être des formateurs EDUCFI"
+      },
+      "key2": {
+        "G_number": "14840",
+        "H_text": "intervenants sociaux rencontrés"
+      },
+      "key3": {
+        "I_number": "2638",
+        "J_text": "enseignants rencontrés"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL \nMESQUESTIONSDARGENT.FR</span>"
+      },
+      "keys": [
+        "25",
+        "63",
+        "4",
+        "8"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,2",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail mesquestionsdargent.fr",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,4",
+            "T_text": "La pertinence des sujets apportés",
+            "_picto_1_1": "education_eco_et_financiere_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "7,2",
+            "V_text": "Les informations sont claires et compréhensibles",
+            "_picto_1_2": "education_eco_et_financiere_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "7,2",
+            "X_text": "La richesse du contenu, le nombre d’informations disponibles",
+            "_picto_1_3": "education_eco_et_financiere_3.svg",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "",
+        "Z_text": "",
+        "_picto_2": "",
+        "keys": {
+          "key1": {
+            "AA_number": "",
+            "AB_text": "",
+            "_picto_2_1": "",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "",
+            "AD_text": "",
+            "_picto_2_2": "",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "",
+            "AF_text": "",
+            "_picto_2_3": "",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "6,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail mesquestionsdargent.fr",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "7,0",
+            "AJ_text": "La fluidité de navigation sur le portail",
+            "_picto_3_1": "education_eco_et_financiere_4.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "6,6",
+            "AL_text": "La facilité pour trouver des informations",
+            "_picto_3_2": "education_eco_et_financiere_5.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "6,8",
+            "AN_text": "L’accès aux outils : vidéo, lettre-type, guide...",
+            "_picto_3_3": "education_eco_et_financiere_6.svg",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "86",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "84",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "59",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée entre septembre 2017 et janvier 2018 auprès dʼutilisateurs du portail\nmesquestionsdargent.fr",
+      "AV_people": "Echantillon représentatif de 53 enquêtes complètes, constitué dʼutilisateurs du portail"
+    },
+    "bloc6": {
+      "AW_title": "EDUCFI : une approche pédagogique de la Banque de France",
+      "type": "Interview",
+      "AX_name": "avec Sofia Amach",
+      "function": "Professeur de PFEG au lycée Albert de Mun à Paris",
+      "AY_img": "",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "",
+          "BB_answer": ""
+        },
+        "question2": {
+          "BC_question": "",
+          "BD_answer": ""
+        },
+        "question3": {
+          "BE_question": "",
+          "BF_answer": ""
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "education-economique-et-financiere-des-publics.pdf"
+    },
+    "type": "video",
+    "pictogram": "<svg class=\"service-svg cls service-3\" viewbox=\"0 0 378 324.67\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.82V124.41a10,10,0,0,0-6.55-9.39L195.91,50.79a20,20,0,0,0-13.82,0L7.55,115A10,10,0,0,0,1,124.41V248.82a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,248.82Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2 grey\" d=\"M300.57,264.84a44.13,44.13,0,0,1-5.34,21.09l-54.94,20.22a44.29,44.29,0,1,1,60.28-41.31Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3\" data-ignore=\"true\" points=\"256.28 220.55 256.28 264.84 300.57 264.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3\" data-ignore=\"true\" points=\"289.08 235.09 256.28 264.84 236.5 304.46\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4 grey\" data-ignore=\"true\" points=\"220.91 313.24 96.38 264.58 96.38 38.46 261.01 102.05 261.01 298.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5\" data-ignore=\"true\" points=\"78.89 43.66 95.95 43.66 256.28 105.6 239.23 105.6 78.89 43.66\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2 grey\" data-ignore=\"true\" height=\"5.72\" width=\"21.78\" x=\"74.59\" y=\"38.46\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" data-ignore=\"true\" points=\"239.23 306.5 239.23 102.05 74.59 38.46 74.59 264.58 209.69 317.37\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"190.48 231.66 149.34 197.89 123.34 205.42 123.34 113.21 190.48 139.14 190.48 224.37 190.48 231.66\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2 grey\" data-ignore=\"true\" x1=\"123.34\" x2=\"190.48\" y1=\"89.56\" y2=\"115.5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2 grey\" x1=\"123.34\" x2=\"190.48\" y1=\"223.81\" y2=\"249.74\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2 grey\" x1=\"133.63\" x2=\"177.64\" y1=\"236.26\" y2=\"253.26\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-5\" data-ignore=\"true\" points=\"239.23 105.6 239.23 306.5 256.28 300.26 256.28 105.6 239.23 105.6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-8 grey\" d=\"M315,185.62c0,8.91-19,16.13-42.41,16.13s-42.42-7.22-42.42-16.13V149.86H315Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-9\" data-ignore=\"true\" points=\"272.49 125.33 208.29 145.87 272.62 170.04 336.82 145.32 272.49 125.33\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-10\" points=\"272.56 144.81 285.27 165.17 285.27 236.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-7\" d=\"M292.05,243.59a6.78,6.78,0,0,0-13.56,0,6.69,6.69,0,0,0,.85,3.27h0l5.94,12.65,5.93-12.65h0A6.7,6.7,0,0,0,292.05,243.59Z\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"237.9\" x2=\"237.9\" y1=\"0.5\" y2=\"13.13\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"244.21\" x2=\"231.59\" y1=\"6.81\" y2=\"6.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"52.55\" x2=\"43.62\" y1=\"181.28\" y2=\"190.21\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"52.55\" x2=\"43.62\" y1=\"190.21\" y2=\"181.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"313.53\" x2=\"313.53\" y1=\"105.47\" y2=\"118.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"319.84\" x2=\"307.21\" y1=\"111.79\" y2=\"111.79\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "https://www.youtube.com/embed/ZSTGglgasQ4",
+    "video_placeholder": "sofia-amach.jpg",
+    "image_url": ""
+  },
+  "data4": {
+    "A_id": "4",
+    "B_title": "ENQUÊTES NATIONALES\nMENSUELLES DE\nCONJONCTURE",
+    "C_leadIn​": "La Banque de France publie des enquêtes de conjoncture : un diagnostic sur lʼéconomie française, sous la\rforme dʼindicateurs de climat des affaires et de prévisions à court terme.",
+    "D_mark": "7,4",
+    "bloc1": {
+      "key1": {
+        "E_number": "102000",
+        "F_text": "abonnés aux publications régionales et nationales"
+      },
+      "key2": {
+        "G_number": "15000",
+        "H_text": "entreprises répondent aux enquêtes de conjoncture"
+      },
+      "key3": {
+        "I_number": "24",
+        "J_text": "publications des enquêtes nationales mensuelles de conjoncture\r(12EMC et 12 « Commerce de détail »)"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>ENQUÊTES NATIONALES\nMENSUELLES DE\nCONJONCTURE</span>"
+      },
+      "keys": [
+        "16",
+        "72",
+        "9",
+        "3"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,4",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les enquêtes nationales mensuelles de conjoncture",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,3",
+            "T_text": "L’utilité des thèmes abordés",
+            "_picto_1_1": "enquetes_nationales_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "7,2",
+            "V_text": "La bonne couverture sectorielle",
+            "_picto_1_2": "enquetes_nationales_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "7,1",
+            "X_text": "La pertinence de la publication par rapport aux attentes",
+            "_picto_1_3": "enquetes_nationales_3.svg",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "",
+        "Z_text": "",
+        "_picto_2": "",
+        "keys": {
+          "key1": {
+            "AA_number": "",
+            "AB_text": "",
+            "_picto_2_1": "",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "",
+            "AD_text": "",
+            "_picto_2_2": "",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "",
+            "AF_text": "",
+            "_picto_2_3": "",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "7,5",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des enquêtes nationales mensuelles de conjoncture",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "7,7",
+            "AJ_text": "La clarté de la rédaction",
+            "_picto_3_1": "enquetes_nationales_4.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "7,5",
+            "AL_text": "La facilité et l’agrément de lecture",
+            "_picto_3_2": "enquetes_nationales_5.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "7,6",
+            "AN_text": "Le format du texte",
+            "_picto_3_3": "enquetes_nationales_6.svg",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "95",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "79",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 20 novembre au 15 décembre 2017 auprès des clients abonnés\nà lʼenquête nationale mensuelle de conjoncture",
+      "AV_people": "Echantillon représentatif de 134 enquêtes complètes, constitué de lecteurs abonnés"
+    },
+    "bloc6": {
+      "AW_title": "Les enquêtes conjoncturelles : un outil de prévision du climat des affaires",
+      "type": "Interview",
+      "AX_name": "avec Magalie Debatte",
+      "function": "Secrétaire générale pour les affaires régionales auprès du préfet de la région Hauts-de-France",
+      "AY_img": "",
+      "AZ_quote": "Les enquêtes portent sur la façon dont les entrepreneurs perçoivent la conjoncture",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Quelles sont les vocations des enquêtes de conjonctures&nbsp;?",
+          "BB_answer": "Ces enquêtes sont effectuées auprès des entreprises qui réalisent plus de 750 000 € de chiffre d'affaires. Elles portent sur la façon dont les entrepreneurs et chefs d'entreprise perçoivent la conjoncture, s'ils sentent des évolutions plutôt positives ou négatives, ce qu'on nomme le climat des affaires. Elles représentent un ensemble de données relatif à leur activité, carnet de commande, trésorerie et embauches, tout ce qui permet de suivre les évolutions mois par mois et, de faire des prévisions de leur activité à court terme."
+        },
+        "question2": {
+          "BC_question": "2 — Quels domaines d'activités couvrent-elles&nbsp;?",
+          "BD_answer": "Ces enquêtes concernent l'ensemble de l'industrie couvrant les secteurs de la chimie, de la métallurgie, des transports et du BTP, ainsi que le champ des services marchands.      "
+        },
+        "question3": {
+          "BE_question": "3 — Avec une note de satisfaction globale de 7,4 sur 10, quelles vont être les prochaines évolutions de ce service&nbsp;?",
+          "BF_answer": "La note obtenue est plutôt bonne, mais je vois quelques axes de progrès.\r\nCes analyses sont réalisées sur du très court terme, soit un mois, mais sans regard sur le moyen terme ou ce qui s'est déroulé sur l'année passée. Des structures comme les nôtres seraient intéressées par certaines données relatives aux investissements des entreprises. Or les enquêtes de conjoncture ne permettent pas de suivre l'évolution des crédits, en particulier sur l'investissement.\r\nIl serait donc préférable que les données ne soient pas forcément mensuelles pour permettre des analyses sur le moyen terme et sur les crédits d'investissement.\r\nPar ailleurs, étant une structure régionale, chaque département peut avoir des spécificités en termes de secteur d'activité. Bénéficier de données départementales sur une analyse conjoncturelle à court et moyen terme serait également un véritable plus.    \r\n"
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "enquetes-nationales-mensuelles-de-conjoncture.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-4\" viewbox=\"0 0 378 324.25\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.4V124a10,10,0,0,0-6.55-9.38L195.91,50.36a20,20,0,0,0-13.82,0L7.55,114.6A10,10,0,0,0,1,124V248.4a10,10,0,0,0,6.55,9.38L182.09,322a20,20,0,0,0,13.82,0l174.54-64.24A10,10,0,0,0,377,248.4Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-3 grey\" cx=\"305.03\" cy=\"160.09\" data-ignore=\"true\" r=\"31.26\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2\" data-ignore=\"true\" points=\"318.94 132.1 305.03 160.09 333.01 174\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2\" data-ignore=\"true\" points=\"335.11 151.59 305.03 160.09 280.08 178.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"164.01 154.97 52.98 112.09 52.98 274.5 164.01 315.36 164.01 154.97\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"305.03 159.43 194.01 116.54 194.01 301.36 222.57 312.52 305.03 281.86 305.03 159.43\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"220.23\" x2=\"280.52\" y1=\"260.31\" y2=\"282.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"271.74 279.24 262.9 275.95 262.9 226.18 271.74 229.81 271.74 279.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"254.06 272.71 245.23 269.49 245.23 238.06 254.06 241.69 254.06 272.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"236.39 266.2 227.55 263 227.55 194.44 236.39 198.06 236.39 266.2\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"87.03 25.16 91.44 25.16 222.57 75.82 218.16 75.82 87.03 25.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"218.89\" width=\"4.41\" x=\"218.16\" y=\"75.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"218.16 75.82 87.03 25.16 87.03 243.46 218.16 294.7 218.16 75.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-6\" data-ignore=\"true\" points=\"211.36 77.7 93.83 32.31 93.83 227.95 211.36 273.88 211.36 77.7\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"198.92\" x2=\"132.21\" y1=\"120.15\" y2=\"94.38\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"185.85\" x2=\"132.21\" y1=\"121.56\" y2=\"100.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-3 grey\" d=\"M181.69,50.75V45.23a3.53,3.53,0,0,0-2.27-3.3L125.11,21a1.18,1.18,0,0,0-1.61,1.1v6.22l-4.83-1.87a2.37,2.37,0,0,0-3.22,2.21V44.69l74.28,29v-15a7.09,7.09,0,0,0-4.53-6.61Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"126.25 104.02 110.66 97.92 110.66 82.33 126.25 88.42 126.25 104.02\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"198.93\" x2=\"132.22\" y1=\"156.13\" y2=\"130.36\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"185.86\" x2=\"132.22\" y1=\"157.54\" y2=\"136.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"126.26 140 110.67 133.91 110.67 118.31 126.26 124.41 126.26 140\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"198.94\" x2=\"132.23\" y1=\"192.11\" y2=\"166.34\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"185.87\" x2=\"132.23\" y1=\"193.53\" y2=\"172.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"126.27 175.98 110.68 169.89 110.68 154.3 126.27 160.39 126.27 175.98\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"198.95\" x2=\"132.25\" y1=\"228.09\" y2=\"202.33\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"185.88\" x2=\"132.25\" y1=\"229.51\" y2=\"208.79\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"126.28 211.96 110.69 205.87 110.69 190.28 126.28 196.37 126.28 211.96\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-4\" cx=\"152.59\" cy=\"40.71\" data-ignore=\"true\" rx=\"2.29\" ry=\"3.12\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" points=\"114.03 90.75 116.25 95.59 122.88 91.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" points=\"114.03 126.73 116.25 131.58 122.88 127.12\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"114.02\" x2=\"122.88\" y1=\"159.52\" y2=\"170.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" x1=\"123.51\" x2=\"114.02\" y1=\"162.21\" y2=\"167.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" points=\"114.03 198.7 116.25 203.54 122.88 199.09\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"45.1\" x2=\"35.52\" y1=\"76.69\" y2=\"86.27\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"45.1\" x2=\"35.52\" y1=\"86.27\" y2=\"76.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"325.65\" x2=\"325.65\" y1=\"210.98\" y2=\"224.53\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"332.43\" x2=\"318.88\" y1=\"217.76\" y2=\"217.76\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"157.23\" x2=\"157.23\" y1=\"0.5\" y2=\"14.05\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-2\" x1=\"164.01\" x2=\"150.45\" y1=\"7.28\" y2=\"7.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data5": {
+    "A_id": "5",
+    "B_title": "FICHIER BANCAIRE\nDES ENTREPRISES",
+    "C_leadIn​": "La base de données FIBEN (Fichier bancaire des entreprises) est un fichier de référence\rpour lʼensemble de la profession bancaire et pour les autres acteurs du financement des entreprises.",
+    "D_mark": "7,8",
+    "bloc1": {
+      "key1": {
+        "E_number": "456",
+        "F_text": "clients adhérents"
+      },
+      "key2": {
+        "G_number": "13,3 M",
+        "H_text": "de consultations"
+      },
+      "key3": {
+        "I_number": "7,6 M",
+        "J_text": "d’entreprises dans FIBEN"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "91",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> de <span class='semi-bold'>FIBEN</span>"
+      },
+      "keys": [
+        "21",
+        "70",
+        "9",
+        "0"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,7",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le fichier bancaire des entreprises",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,8",
+            "T_text": "La fiabilité sur la précision de la cotation",
+            "_picto_1_1": "fichier_bancaire_1.svg",
+            "S2016_number": "7,5"
+          },
+          "key2": {
+            "U_number": "7,7",
+            "V_text": "La facilité d’interprétation de la cotation",
+            "_picto_1_2": "fichier_bancaire_2.svg",
+            "U2016_number": "7,6"
+          },
+          "key3": {
+            "W_number": "7,5",
+            "X_text": "La précision de la cotation par rapport aux besoins",
+            "_picto_1_3": "fichier_bancaire_3.svg",
+            "W2016_number": "7,1"
+          }
+        },
+        "Q2016_number": "7,4"
+      },
+      "mark2": {
+        "Y_number": "8,1",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> pour le fichier bancaire des entreprises",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "8,6",
+            "AB_text": "L’expertise de votre interlocuteur",
+            "_picto_2_1": "fichier_bancaire_4.svg",
+            "AA2016_number": "8,6"
+          },
+          "key2": {
+            "AC_number": "8,5",
+            "AD_text": "La clarté des explications fournies",
+            "_picto_2_2": "fichier_bancaire_5.svg",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "8,1",
+            "AF_text": "L’utilité des informations délivrées par votre interlocuteur",
+            "_picto_2_3": "fichier_bancaire_6.svg",
+            "AE2016_number": "7,4"
+          }
+        },
+        "Y2016_number": "7,9"
+      },
+      "mark3": {
+        "AG_number": "7,6",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> de FIBEN",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "8,4",
+            "AJ_text": "FIBEN est une banque de données de référence\nsur le marché",
+            "_picto_3_1": "fichier_bancaire_7.svg",
+            "AI2016_number": "8,1"
+          },
+          "key2": {
+            "AK_number": "7,4",
+            "AL_text": "FIBEN met à disposition des informations exclusives",
+            "_picto_3_2": "fichier_bancaire_8.svg",
+            "AK2016_number": "7,4"
+          },
+          "key3": {
+            "AM_number": "6,6",
+            "AN_text": "FIBEN est une banque de données d’un bon rapport\nqualité/prix",
+            "_picto_3_3": "fichier_bancaire_9.svg",
+            "AM2016_number": "6,6"
+          }
+        },
+        "AG2016_number": "7,1"
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "98",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "91",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "81",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 19 septembre au 23 octobre 2017 auprès des clients\rutilisateurs FIBEN selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 426 interviews constitué dʼutilisateurs de FIBEN"
+    },
+    "bloc6": {
+      "AW_title": "",
+      "type": "Interview",
+      "AX_name": "avec Patrick De Gouttes",
+      "function": "Responsable service BATICA Crédit Agricole Leasng & Factoring",
+      "AY_img": "",
+      "AZ_quote": "Lorem Ipsum Exergue adipisicing elit, sed do eiusmod tempor",
+      "questions": {
+        "question1": {
+          "BA_question": "",
+          "BB_answer": ""
+        },
+        "question2": {
+          "BC_question": "",
+          "BD_answer": ""
+        },
+        "question3": {
+          "BE_question": "",
+          "BF_answer": ""
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "fichier-bancaire-des-entreprises.pdf"
+    },
+    "type": "video",
+    "pictogram": "<svg class=\"service-svg cls service-5\" viewbox=\"0 0 378 324.67\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.82V124.41a10,10,0,0,0-6.55-9.39L195.91,50.79a20,20,0,0,0-13.82,0L7.55,115A10,10,0,0,0,1,124.41V248.82a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,248.82Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-2 grey\" cx=\"92.24\" cy=\"150.92\" data-ignore=\"true\" r=\"40.58\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3\" data-ignore=\"true\" points=\"92.24 110.33 92.24 150.92 132.82 150.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3\" data-ignore=\"true\" points=\"122.3 123.66 92.24 150.92 74.12 187.23\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2 grey\" d=\"M120.84,299.9C109,247.49,80.83,147,80.83,147s-8.09,1.78-3.69,18.67c3.14,12.07,21.8,87.78,32.2,130\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4\" d=\"M308.54,263.33a7.33,7.33,0,0,0,4.56-8.6L272.75,89.37l-121.22,47-2.38-9.26a4.7,4.7,0,0,0-6.17-3.22L80.83,147a5.67,5.67,0,0,0-3.53,6.66l34.92,143.11,19.27,6.82,177.05-40.22\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"85.26\" x2=\"85.26\" y1=\"33.56\" y2=\"48.25\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"92.61\" x2=\"77.92\" y1=\"40.9\" y2=\"40.9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"258.93 149.99 167.28 184.05 167.28 64.67 258.93 30.72 258.93 149.99\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4\" d=\"M204.63,170.17V76.55L296.28,42.6V253.07l-27.46,10.18V153.68a5.12,5.12,0,0,0-6.9-4.8Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"260.7\" x2=\"285.91\" y1=\"77.26\" y2=\"67.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"260.7\" x2=\"285.91\" y1=\"82.37\" y2=\"73.03\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"260.7\" x2=\"285.91\" y1=\"87.48\" y2=\"78.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"216.58\" x2=\"285.91\" y1=\"134.21\" y2=\"108.53\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"216.58\" x2=\"285.91\" y1=\"139.56\" y2=\"113.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"150.92\" y2=\"144.59\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"157.25\" y2=\"150.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"163.58\" y2=\"157.25\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"169.91\" y2=\"163.58\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"176.24\" y2=\"169.91\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"182.56\" y2=\"176.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"188.89\" y2=\"182.56\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"195.22\" y2=\"188.89\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"201.55\" y2=\"195.22\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"207.88\" y2=\"201.55\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"214.21\" y2=\"207.88\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"220.54\" y2=\"214.21\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"226.87\" y2=\"220.54\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"233.2\" y2=\"226.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"268.82\" x2=\"285.91\" y1=\"239.53\" y2=\"233.2\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2 grey\" d=\"M127.62,302.4c.52-41.2-1.62-112.56-1.62-112.56a11,11,0,0,0-8.34,11.06c0,5.79.27,63.18.43,98\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M121.07,300V195.07a4.92,4.92,0,0,1,3.19-4.59l183.79-68.31a4.9,4.9,0,0,1,6.6,4.59v130.9a4.88,4.88,0,0,1-3.19,4.58L165.72,316.41\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"137.62\" x2=\"168.98\" y1=\"202.39\" y2=\"190.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"137.62\" x2=\"173.5\" y1=\"207.5\" y2=\"194.21\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"137.62\" x2=\"162.83\" y1=\"212.61\" y2=\"203.27\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"56.85\" x2=\"46.46\" y1=\"198.08\" y2=\"208.46\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"56.85\" x2=\"46.46\" y1=\"208.46\" y2=\"198.08\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"271.38\" x2=\"271.38\" y1=\"0.5\" y2=\"15.19\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" x1=\"278.73\" x2=\"264.04\" y1=\"7.84\" y2=\"7.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "https://www.youtube.com/embed/rM9E-LMzF60",
+    "video_placeholder": "patrick-de-gouttes.jpg",
+    "image_url": ""
+  },
+  "data6": {
+    "A_id": "6",
+    "B_title": "MODALITÉS DʼACCUEIL\nDU PUBLIC",
+    "C_leadIn​": "MODAC est un programme dʼamélioration de la qualité du service rendu par la mise en oeuvre\rdʼun accueil multicanal, en réponse aux demandes dʼinformation, dʼécoute ou dʼassistance du public.",
+    "D_mark": "8,0",
+    "bloc1": {
+      "key1": {
+        "E_number": "710 000",
+        "F_text": "visiteurs à ses guichets"
+      },
+      "key2": {
+        "G_number": "2,5 M",
+        "H_text": "d’appels téléphoniques entrants"
+      },
+      "key3": {
+        "I_number": "",
+        "J_text": ""
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "88",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>MODALITÉS DʼACCUEIL\nDU PUBLIC</span>"
+      },
+      "keys": [
+        "58",
+        "30",
+        "7",
+        "5"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "8,1",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les modalités d'accueil du public",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "8,1",
+            "T_text": "La pertinence de la réponse apportée",
+            "_picto_1_1": "modac_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "8,2",
+            "V_text": "La clarté et la facilité de compréhension de la réponse apportée",
+            "_picto_1_2": "modac_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "8,1",
+            "X_text": "L’exhaustivité de la réponse apportée",
+            "_picto_1_3": "modac_3.svg",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "8,3",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> par les modalités d'accueil du public",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "8,5",
+            "AB_text": "La courtoisie de la réponse ou le ton de la réponse",
+            "_picto_2_1": "modac_4.svg",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "8,6",
+            "AD_text": "La disponibilité / L’implication de l’agent pendant l’entretien",
+            "_picto_2_2": "modac_5.svg",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "7,2",
+            "AF_text": "Le délai de réponse à une demande web",
+            "_picto_2_3": "modac_6.svg",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "8,2",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des modalités d'accueil du public",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "8,3",
+            "AJ_text": "La simplicité d’utilisation du formulaire",
+            "_picto_3_1": "modac_7.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "8,1",
+            "AL_text": "La facilité d’accès au formulaire de contact sur le site internet",
+            "_picto_3_2": "modac_8.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "",
+            "AN_text": "",
+            "_picto_3_3": "",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "91",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "85",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "72",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 14 décembre au 30 janvier 2018 auprès de particuliers\rqui sont entrés en relation avec la Banque de France",
+      "AV_people": "Echantillon représentatif de 511 enquêtes complètes, constitué de particuliers"
+    },
+    "bloc6": {
+      "AW_title": "",
+      "type": "Micro-trottoir",
+      "AX_name": "",
+      "function": "",
+      "AY_img": "",
+      "AZ_quote": "J'attends de la Banque de France un réel accompagnement",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Comment jugez-vous l'accueil réservé par le personnel de la Banque de France&nbsp;?",
+          "BB_answer": "L'accueil réservé est vraiment très bien aujourd'hui. Il faut, certes, prendre rendez-vous avant de venir, mais une fois ces démarches effectuées, il y a très peu d'attente avant d'être reçu. Je me suis rendu une fois auparavant à la Banque de France, mais la prise de rendez-vous n'existait pas et l'attente était sans fin. Vous pouviez attendre des heures et être, finalement, expédié par le personnel de la Banque de France qui n'avait, malheureusement pas toujours le temps de vous recevoir et traiter votre cas correctement. Je constate donc une réelle amélioration, c'est vraiment mieux ainsi !\n<br>M. David C., chauffeur de VTC\n"
+        },
+        "question2": {
+          "BC_question": "2 — Quels types de services recherchez-vous en allant dans une succursale de la Banque de France&nbsp;?",
+          "BD_answer": "J'attends de la Banque de France un réel accompagnement dans l'évolution de ma situation financière. J'ai été \" Interdit bancaire \" et ça m'a énormément pénalisé au quotidien. C'était principalement dû au fait que je ne comprenais pas réellement comment gérer mon argent et les autres banques ne m'ont pas vraiment accompagné sur ce sujet. Maintenant, je reviens ici une fois par an pour faire le point sur ma situation financière. Je parviens à ne plus faire les mêmes erreurs, mais je préfère avoir un regard extérieur et d'expert.\n<br>M. Salimu M., Sans emploi\n"
+        },
+        "question3": {
+          "BE_question": "3 — Quelles évolutions vous semblent nécessaires à l'avenir&nbsp;?",
+          "BF_answer": "Pour être honnête, j'espère ne plus avoir à revenir ici. Mais si, à l'avenir, je devais me rendre à nouveau dans une succursale de la Banque de France, je pense que la prise de contact en amont devrait être clarifiée, simplifiée. La première fois que je suis venu, on m'a informé une fois face à la porte d'entrée que je ne pourrais pas accéder à l'intérieur. C'était difficile à entendre. Il serait plus simple pour nous, clients, qu'on puisse savoir en avance comment accéder à la Banque de France.\n<br>M. Franka H., Intérimaire en poissonnerie\n"
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "modalites-d-accueil-du-public.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-6\" viewbox=\"0 0 378 300.23\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,224.38V100a10,10,0,0,0-6.55-9.38L195.91,26.34a20,20,0,0,0-13.82,0L7.55,90.58A10,10,0,0,0,1,100V224.38a10,10,0,0,0,6.55,9.38L182.09,298a20,20,0,0,0,13.82,0l174.54-64.24A10,10,0,0,0,377,224.38Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-2 grey\" cx=\"161.24\" cy=\"251.01\" data-ignore=\"true\" r=\"9.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-3\" cx=\"267.85\" cy=\"35.48\" data-ignore=\"true\" r=\"10.22\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4 grey\" d=\"M343.66,161.31,292.22,183.9c1.92-1.31-1.42-12-1.42-12-1.93-4.25-25.23-54.16-26.39-56.77s-7.27-12.76-8.13-13.41c0,0,5.38-2.26,23.87-10.34l63.51-23.1h0a133,133,0,0,1,.35,92.09Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6\" d=\"M126,110.49l10.95,4.4a35.78,35.78,0,0,1-1.54,15.51c-2.73,7.42-13.89,35.07-19.71,42a48.57,48.57,0,0,1-9.27-2Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M177.88,110.88a7.38,7.38,0,0,1-3.61,5.89c-1,.61-9.19,6.24-15.47,5.52s-7.88-7.94-7.84-9.32c0,0-.56-1.23,4.39-3.09s10.84-6.54,12.73-8.42a8.5,8.5,0,0,1,7.67-1.94c2.86.57,20.49,3,23.65,3.49s7.42,2.67,9.87,3.12,15.84,1.79,17.95,2.07,3.58,2.64,6.09,3.17,14.25-3.63,15.59-4.28\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M174.8,116.41s9.17,1.12,12.81,2.09,18.87,10.95,28.08,18.62,21.17,17.23,22.46,18.47,8,9.57,9.08,12.09a8.61,8.61,0,0,1-2,8.68c-1.79,1.56-4.11,3.92-9.18,2.11-3.72-1.33-28.84-23.24-28.84-23.24\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M235.76,178.48c1.8,3-3.6,9.59-5.28,10.65-1.09.69-5.6,2.78-9.11-.46s-19.78-15-19.78-15\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M220.17,187.47a3.94,3.94,0,0,1,1,4.84,13.47,13.47,0,0,1-3.68,4.57c-1.3.88-4.37,2.39-7,1.62s-20-13.1-20-13.1\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M205.33,195.65a15.7,15.7,0,0,1-.49,5c-.68,1.75-4.76,5.28-8.75,4.88s-9.09-4.93-10.75-6.46c0,0-4.8-4.7-5.59-5.42s-6.78-3.65-9.25.19\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M119.7,166.21s15.72,11.46,17.67,12.73,5.86,2.82,7.74,2.8a33.81,33.81,0,0,0-.85,3.65c-.19,1.42,1.37,7.13,4.89,8.34a8.45,8.45,0,0,0,7.31-.52c0,1.72,3.61,6.64,6.91,7.11s5.19-.62,6.14-1.6c1.78,2.18,3.53,5.27,7.54,5.81s7.65-1.74,9.68-4.2\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M156.46,193.21s2.63-5.7-1.25-8.87-7.3-4.64-10.1-2.6\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M169.51,198.72s1.18-4-.17-6.21-2.34-4.36-4.58-4.76-5.17-.76-7,.55\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M133.82,176.44s-1.8,4.82-1.27,7.36,3.23,3.24,4.5,3.44a9.82,9.82,0,0,0,7.44-3.09\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M137.06,115.51s12.37-1.8,13.9-2.54\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-5\" data-ignore=\"true\" points=\"288.26 166.39 264.41 115.11 256.58 102.58 248.72 107.17\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6\" d=\"M288.26,166.39a100.46,100.46,0,0,1-12,5.23c-1.74-2.85-17.51-44-20.08-51.45a50.22,50.22,0,0,0-7-13l7.61-4.76,8.44,14,23,50\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-5\" d=\"M246.56,166.06s8.19-8.43,11.33-9.67,8.32-3.09,10.77-3.42\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-5\" cx=\"279.81\" cy=\"163.54\" data-ignore=\"true\" r=\"2.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<circle class=\"cls-5\" cx=\"113.8\" cy=\"166.36\" data-ignore=\"true\" r=\"2.25\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</circle>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-7\" d=\"M283.7,168.61s4.48,8.15,7.38,13.81,1.69-6.28-.24-10.53\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4 grey\" d=\"M37.09,168.61l27.59,12.78s14.72,6.33,25.71,11.11c13.7-10.68,26.32-43.82,32-60.16s3.3-23.38,3.3-23.38L102.05,98.83,37.09,76,35,82.84a133.67,133.67,0,0,0,2.13,85.77Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-8\" d=\"M101.43,268.31c-8.09-20.34-9.75-50.14-6-80.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-9\" d=\"M118.44,103.89C152.55,42.4,204.94-13.27,243.28,3.54,253.37,8,261,16.74,266.17,28.77\" data-delay=\"5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-8\" d=\"M271.78,44.92c6.46,33.47-.27,83.23-20.7,131.81-23.61,56.16-59.28,98.43-91.53,113\" data-delay=\"5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-9\" d=\"M157.45,247.23c-16.52-16.26-32.85-40-44-66.5C86,115.47,93.29,50.16,129.71,34.85c29.8-12.53,73.71,15.55,102.68,61l8.55,14\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-8\" d=\"M168.81,257.07c20.29,15.17,42.65,21.5,60.26,14.09,25.05-10.53,36.42-46,32.08-87.52l-3.26-27.25\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" x1=\"86.22\" x2=\"77.34\" y1=\"1.24\" y2=\"10.12\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" x1=\"86.22\" x2=\"77.34\" y1=\"10.12\" y2=\"1.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" x1=\"322.43\" x2=\"322.43\" y1=\"11.32\" y2=\"23.88\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" x1=\"328.71\" x2=\"316.15\" y1=\"17.6\" y2=\"17.6\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data7": {
+    "A_id": "7",
+    "B_title": "SERVICES BANCAIRES\nAUX CLIENTS\nINSTITUTIONNELS",
+    "C_leadIn​": "La Banque de France gère lʼapplication de banque en ligne BDFDirect2 et la tenue de compte pour\rla clientèle institutionnelle, grands comptes et Trésor.",
+    "D_mark": "7,5",
+    "bloc1": {
+      "key1": {
+        "E_number": "150",
+        "F_text": "clients"
+      },
+      "key2": {
+        "G_number": "1530",
+        "H_text": "utilisateurs de la Banque en ligne BDFDirect2"
+      },
+      "key3": {
+        "I_number": "6056",
+        "J_text": "comptes clients"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "81",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>SERVICES BANCAIRES\nAUX CLIENTS\nINSTITUTIONNELS</span>"
+      },
+      "keys": [
+        "27",
+        "54",
+        "19",
+        "0"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les services bancaires aux clients institutionnels",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "8,1",
+            "T_text": "Le suivi des ordres et étapes de validation des ordres",
+            "_picto_1_1": "services_bancaires_1.svg",
+            "S2016_number": "7,4"
+          },
+          "key2": {
+            "U_number": "8,2",
+            "V_text": "La facilité de téléchargement des fichiers d’ordre",
+            "_picto_1_2": "services_bancaires_2.svg",
+            "U2016_number": "7,0"
+          },
+          "key3": {
+            "W_number": "7,8",
+            "X_text": "La facilité de saisie des virements en euro ou en devise étrangère",
+            "_picto_1_3": "services_bancaires_3.svg",
+            "W2016_number": "7,3"
+          }
+        },
+        "Q2016_number": "7,2"
+      },
+      "mark2": {
+        "Y_number": "7,6",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> des services bancaires aux clients institutionnels",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "7,7",
+            "AB_text": "Le délai de réponse",
+            "_picto_2_1": "services_bancaires_4.svg",
+            "AA2016_number": "7,5"
+          },
+          "key2": {
+            "AC_number": "8,0",
+            "AD_text": "La disponibilité",
+            "_picto_2_2": "services_bancaires_5.svg",
+            "AC2016_number": "7,5"
+          },
+          "key3": {
+            "AE_number": "7,8",
+            "AF_text": "La qualité des réponses fournies",
+            "_picto_2_3": "services_bancaires_6.svg",
+            "AE2016_number": "7,6"
+          }
+        },
+        "Y2016_number": "7,1"
+      },
+      "mark3": {
+        "AG_number": "7,2",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des services bancaires aux clients institutionnels",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "7,2",
+            "AJ_text": "Le caractère pertinent des informations mises à disposition",
+            "_picto_3_1": "services_bancaires_7.svg",
+            "AI2016_number": "6,6"
+          },
+          "key2": {
+            "AK_number": "7,1",
+            "AL_text": "Le guide en ligne",
+            "_picto_3_2": "services_bancaires_8.svg",
+            "AK2016_number": "6,7"
+          },
+          "key3": {
+            "AM_number": "",
+            "AN_text": "",
+            "_picto_3_3": "",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": "6,6"
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "94",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "88",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "83",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 2 octobre au 6 novembre 2017 auprès des utilisateurs de BDFDirect2",
+      "AV_people": "Echantillon représentatif de 116 enquêtes complètes, constitué dʼutilisateurs de BDFDirect2"
+    },
+    "bloc6": {
+      "AW_title": "Services bancaires aux clients institutionnels : BDF2 apprécié ",
+      "type": "Interview",
+      "AX_name": "avec Dominique Othelet",
+      "function": "chef du service relation clientèle",
+      "AY_img": "dominique-othelet-service-bancaire.jpg",
+      "AZ_quote": "L'un de nos premiers défis, sera de d'accompagner les services de l'État au passage du prélèvement de l'impôt à la source ",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Pourriez-vous nous rappeler en quoi consistent les services bancaires délivrés par BDF et ce qu'apporte l'application en ligne BDFDirect2&nbsp;?",
+          "BB_answer": "La Direction des services bancaires gère le compte unique du Trésor public dans le cadre d'une convention signée avec le ministère de l'Économie et des Finances et, à ce titre, les comptes d'opérations comptables publiques. Elle offre une gamme de services bancaires en procédant à la tenue du compte, ainsi qu'à tous les recouvrements des opérations du Trésor public (prélèvements dans le cadre du recouvrement des impôts, amendes, virements de salaires de la fonction publique…). Tous les flux sont recouvrés par la BDF au travers des systèmes d'échanges. Pour faciliter la vie des comptables publics et dans le cadre de recherche de gains de productivité, elle met à leur disposition un outil de banque en ligne : BDFDirect. Ils peuvent ainsi émettre des ordres de paiement et ont accès à leur compte pour voir les relevés d'opérations. BDF direct permet aussi une gestion fine de la trésorerie de l'État par l'Agence France Trésor."
+        },
+        "question2": {
+          "BC_question": "2 — Comment interprétez-vous la note globale de l'enquête&nbsp;?",
+          "BD_answer": "La note globale porte sur l'outil BDFDirect, mais un chiffre important concerne également l'appréciation de la relation clientèle. La note de satisfaction de 7,5/10 évaluant l'outil est un bon score. Elle montre que nous avons su être particulièrement à l'écoute de nos clients en tenant compte de leurs remarques. Nous avons ainsi apporté des améliorations dans le processus de mise en place de l'outil, qui est par ailleurs reconnu comme ergonomique et assez convivial dans les prises d'ordre et consultations de compte. Sur le score global des services rendus, et c'est un point positif, 81% des clients se déclarent satisfaits. Ils apprécient particulièrement notre expertise indépendante et notre accompagnement sur les changements règlementaires et des moyens de paiement.      "
+        },
+        "question3": {
+          "BE_question": "3 — Quels sont les évolutions envisagées pour l'année à venir&nbsp;?",
+          "BF_answer": "L'un de nos premiers défis sera d'accompagner les services de l'État au passage du prélèvement de l'impôt à la source. Un changement informatique majeur est également attendu en 2018 avec la rénovation du système informatique de gestion des paiements de masse (projet EVOLMPM). "
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "services-bancaires-aux-clients-institutionnels.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-7\" viewbox=\"0 0 378 323.41\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,247.57V123.15a10,10,0,0,0-6.55-9.39L195.91,49.53a20,20,0,0,0-13.82,0L7.55,113.76A10,10,0,0,0,1,123.15V247.57A10,10,0,0,0,7.55,257l174.54,64.23a20,20,0,0,0,13.82,0L370.45,257A10,10,0,0,0,377,247.57Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2 grey\" data-ignore=\"true\" points=\"187.8 255.82 204.78 255.82 286.99 287.66 278.28 290.87 187.8 255.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3\" data-ignore=\"true\" points=\"278.28 290.87 187.8 255.82 187.8 303.38 215.84 313.85\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"255.49\" x2=\"197.8\" y1=\"299.26\" y2=\"276.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"244.51\" x2=\"197.8\" y1=\"303.3\" y2=\"285.21\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"233.53\" x2=\"197.8\" y1=\"307.34\" y2=\"293.5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"69.56 41.84 88.39 41.84 247.32 103.39 228.5 103.39 69.56 41.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2 grey\" data-ignore=\"true\" height=\"139.11\" width=\"18.82\" x=\"228.5\" y=\"103.39\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"228.5 103.39 69.56 41.84 69.56 183.19 155.57 215.29 155.57 237.22 184.46 226.07 228.5 242.5 228.5 103.39\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"148.25\" x2=\"80.65\" y1=\"90.19\" y2=\"64\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"214.29\" x2=\"80.65\" y1=\"124.95\" y2=\"73.19\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"201.71\" x2=\"80.65\" y1=\"129.27\" y2=\"82.38\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"205.13\" x2=\"80.65\" y1=\"139.78\" y2=\"91.57\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-3\" data-ignore=\"true\" x1=\"148.25\" x2=\"80.65\" y1=\"126.94\" y2=\"100.76\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"155.57 237.22 175.28 237.22 194.83 229.94 184.46 226.07 155.57 237.22\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"101.27 203.47 101.27 182.36 88.92 177.75 88.92 198.83 80.58 195.69 95.1 219.52 109.81 206.69 101.27 203.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" points=\"88.92 177.75 95.55 177.75 107.07 182.19 101.27 182.19 88.92 177.75\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-4 grey\" data-ignore=\"true\" height=\"21.28\" width=\"5.8\" x=\"101.27\" y=\"182.19\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"101.27 203.47 107.07 203.47 115.99 206.69 109.81 206.69 101.27 203.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"95.1 219.52 101.27 219.52 115.99 206.69 109.81 206.69 95.1 219.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"80.58 195.69 87.24 195.69 88.92 196.36 88.92 198.83 80.58 195.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"89.02 144.92 89.02 166.03 101.37 170.64 101.37 149.56 109.72 152.7 95.2 128.87 80.48 141.7 89.02 144.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"101.37 170.64 107.07 170.64 107.07 151.7 101.37 149.56 101.37 170.64\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4 grey\" data-ignore=\"true\" points=\"95.2 128.87 101.37 128.87 115.99 152.7 109.72 152.7 95.2 128.87\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"92.9 45.16 131.48 45.16 188.45 66.44 148.13 66.44 92.9 45.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2 grey\" data-ignore=\"true\" height=\"10.04\" width=\"40.1\" x=\"148.35\" y=\"66.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"148.35 76.52 92.9 55.2 92.9 45.16 148.35 66.47 148.35 76.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-5\" data-ignore=\"true\" points=\"92.9 35.12 131.48 35.12 188.45 56.4 148.13 56.4 92.9 35.12\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2 grey\" data-ignore=\"true\" height=\"10.04\" width=\"40.1\" x=\"148.35\" y=\"56.43\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"148.35 66.47 92.9 45.16 92.9 35.12 148.35 56.43 148.35 66.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"110.33 41.84 110.33 61.91 124.75 67.45 124.75 47.36 110.33 41.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"110.33 41.84 149.47 41.84 164.26 47.36 124.75 47.36 110.33 41.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6 grey\" d=\"M140.54,271.74l-21.78-4-1.19,5.93c-.37,2,4.22,4.53,10.26,5.64s11.24.39,11.61-1.61l1.1-5.95\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-6 grey\" cx=\"129.56\" cy=\"269.94\" data-ignore=\"true\" rx=\"3.16\" ry=\"11.12\" transform=\"translate(-159.38 348.43) rotate(-79.56)\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-6 grey\" d=\"M292.35,161.1l-15.6,14.49,3.89,4.32c1.33,1.44,5.92-.66,10.25-4.68s6.75-8.44,5.42-9.87l-4-4.26\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-6 grey\" cx=\"284.65\" cy=\"168.52\" data-ignore=\"true\" rx=\"10.69\" ry=\"3.03\" transform=\"translate(-38.6 238.79) rotate(-42.89)\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"339.63\" x2=\"329.24\" y1=\"158.1\" y2=\"168.49\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"339.63\" x2=\"329.24\" y1=\"168.49\" y2=\"158.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"291.44\" x2=\"276.75\" y1=\"7.84\" y2=\"7.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"284.1\" x2=\"284.1\" y1=\"15.19\" y2=\"0.5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"63.25\" x2=\"48.56\" y1=\"233.41\" y2=\"233.41\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" x1=\"55.9\" x2=\"55.9\" y1=\"240.76\" y2=\"226.07\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data8": {
+    "A_id": "8",
+    "B_title": "SERVICES\nFIDUCIAIRES",
+    "C_leadIn​": "La Banque de France assure lʼentretien de la monnaie fiduciaire et gère la bonne qualité de sa circulation\rsur le territoire national, par lʼintermédiaire des établissements de crédit et des transporteurs de fonds.",
+    "D_mark": "7,8",
+    "bloc1": {
+      "key1": {
+        "E_number": "184",
+        "F_text": "interlocuteurs des « Transporteurs de fonds » et <span class='bold'>382</span> des « Responsables espèces des Etablissements de Crédit »"
+      },
+      "key2": {
+        "G_number": "6 MD",
+        "H_text": "de billets prélevés auprès des guichets"
+      },
+      "key3": {
+        "I_number": "5,7 MD",
+        "J_text": "de billets versés aux guichets"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "97",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> des <span class='semi-bold'>SERVICES FIDUCIAIRES</span>"
+      },
+      "keys": [
+        "27",
+        "70",
+        "3",
+        "0"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,9",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par les services fiduciaires",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,7",
+            "T_text": "Les fonctionnalités du Portail Interop Assistance",
+            "_picto_1_1": "services_fiduciaires_1.svg",
+            "S2016_number": "7,3"
+          },
+          "key2": {
+            "U_number": "8,0",
+            "V_text": "Les opérations de prélèvements et de versements",
+            "_picto_1_2": "services_fiduciaires_2.svg",
+            "U2016_number": "7,9"
+          },
+          "key3": {
+            "W_number": "7,7",
+            "X_text": "La préparation à l’émission d’une nouvelle coupure",
+            "_picto_1_3": "services_fiduciaires_3.svg",
+            "W2016_number": "7,9"
+          }
+        },
+        "Q2016_number": "7,7"
+      },
+      "mark2": {
+        "Y_number": "7,8",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> des services fiduciaires",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "8,1",
+            "AB_text": "L’expertise de mon interlocuteur",
+            "_picto_2_1": "services_fiduciaires_4.svg",
+            "AA2016_number": "8,1"
+          },
+          "key2": {
+            "AC_number": "7,4",
+            "AD_text": "La capacité de mon interlocuteur à connaître mes\rbesoins",
+            "_picto_2_2": "services_fiduciaires_5.svg",
+            "AC2016_number": "7,6"
+          },
+          "key3": {
+            "AE_number": "7,3",
+            "AF_text": "Sa capacité à animer et à coordonner une cellule de crise\rau niveau national et/ou au niveau local",
+            "_picto_2_3": "services_fiduciaires_6.svg",
+            "AE2016_number": "7,6"
+          }
+        },
+        "Y2016_number": "7,9"
+      },
+      "mark3": {
+        "AG_number": "7,7",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> des services fiduciaires",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "7,9",
+            "AJ_text": "Le niveau d’information donné sur le site\rinternet par rapport à mes besoins",
+            "_picto_3_1": "services_fiduciaires_7.svg",
+            "AI2016_number": "8,0"
+          },
+          "key2": {
+            "AK_number": "7,7",
+            "AL_text": "Le niveau d’information sur l’évolution des normes de conditionnement\ret des procédures aux guichets de la banque de France",
+            "_picto_3_2": "services_fiduciaires_8.svg",
+            "AK2016_number": "7,4"
+          },
+          "key3": {
+            "AM_number": "8,7",
+            "AN_text": "L’adéquation de la formation à l’authentification des billets reçue\rpar rapport aux besoins de mon établissement",
+            "_picto_3_3": "services_fiduciaires_9.svg",
+            "AM2016_number": "8,5"
+          }
+        },
+        "AG2016_number": "7,7"
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "97",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "84",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "81",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête téléphonique réalisée du 20 au 30 juin 2017 auprès de représentants des établissements\rde crédit et des transporteurs de fonds selon la méthode des quotas",
+      "AV_people": "Echantillon représentatif de 158 interviews, constitué des clients des Services Fiduciaires"
+    },
+    "bloc6": {
+      "AW_title": "Services Fiduciaires : des services modernisés",
+      "type": "Interview",
+      "AX_name": "avec Cédric Koczor",
+      "function": "Directeur Général Opérations - Loomis France",
+      "AY_img": "",
+      "AZ_quote": "Nous sommes face à une Banque de France à l'écoute, qui a pris conscience de nos contraintes opérationnelles et œuvre notamment grâce à cette modernisation",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Que pensez-vous de la modernisation des services fiduciaires (outils, process et services) mis en place dans les caisses de la Banque de France&nbsp;?",
+          "BB_answer": "Le nombre de sites Loomis qui travaillent sur les comptoirs modernisés est aujourd'hui limité à 9 sur 54 en France. Mais le retour que j'ai des équipes opérationnelles, concernant l'utilisation de ces comptoirs et de la relation avec le personnel Banque de France, est à l'unanimité très bon. Je tiens à le souligner car cela n'a pas toujours été le cas. Nous sommes face à une Banque de France à l'écoute, qui a pris conscience de nos contraintes opérationnelles et œuvre notamment grâce à cette modernisation avec une agilité toute nouvelle. \nL'utilisation des cartons pour conditionner les billets, difficiles à assembler et utiliser, est néanmoins contraignante et gâche quelque peu le plaisir du comptoir modernisé. Le second point négatif est qu'il est impossible de contourner le système informatique. Si INTEROP tombe en panne, nous ne pouvons pas travailler avec ces centres en mode dégradé pour réaliser les opérations. De récents dysfonctionnements nous ont valu quelques déboires car il nous a été impossible de faire les opérations de retraits et les versements. La capacité de la Banque de France à organiser la cellule de crise s'en est vue très limitée et les prises de décision, et surtout, d'information des TDF ont été très retardées ce qui nous a empêché de nous retourner pour aller sur d'autres comptoirs assurer les prestations.  \n"
+        },
+        "question2": {
+          "BC_question": "2 — Partagez-vous les résultats de l'enquête&nbsp;?",
+          "BD_answer": "Oui, tout à fait, à l'exception peut-être de la capacité de la BDF à organiser, en situation réelle et au niveau local, des cellules de crise et de ses difficultés de communication pour aider les TDF à trouver au plus vite des solutions opérationnelles dans l'intérêt des établissements de crédit."
+        },
+        "question3": {
+          "BE_question": "3 — Qu'est ce qui pourrait être amélioré parmi nos services&nbsp;?",
+          "BF_answer": "C'est de faciliter encore le quotidien de ce maillon essentiel qu'est le transporteur de fonds pour qu'il puisse réagir au plus vite et assurer les opérations au plus près des besoins de ses clients. Si, par exemple, un comptoir est défaillant, il nous faut pouvoir reporter les opérations sur d'autres comptoirs et d'un point de vue opérationnel avoir le temps de nous organiser. Nous devons rapidement savoir si nous pouvons le faire ou pas en étant prévenus au plus vite du dysfonctionnement et de la capacité de la Banque de France à rétablir le service dans la journée. Cette proactivité peut encore manquer de temps à autre."
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "services-fiduciaires.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-8\" viewbox=\"0 0 378 324.67\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.82V124.41a10,10,0,0,0-6.55-9.39L195.91,50.79a20,20,0,0,0-13.82,0L7.55,115A10,10,0,0,0,1,124.41V248.82a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,248.82Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2 grey\" d=\"M192.78,280.35H211c9.61,0,17.4-11.68,17.4-26.1s-7.79-26.1-17.4-26.1H192.78\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-2 grey\" d=\"M92.79,244.86H111c9.61,0,17.4-11.69,17.4-26.11s-7.79-26.1-17.4-26.1H92.79\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"206.29 121.72 220.53 194.63 323.84 194.63 308.85 121.72 206.29 121.72\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"65.32 67 167.88 67 308.85 121.72 206.29 121.72 65.32 67\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"220.53 194.63 248.02 230.97 353.8 230.97 354.57 230.97 323.84 194.63 220.53 194.63\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2 grey\" data-ignore=\"true\" points=\"354.57 264.05 354.57 230.97 248.02 230.97 248.02 283.19 301.3 283.89\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-4\" d=\"M220.53,194.63,206.3,121.72,65.32,67V214.66l6.68,2.5c.55-16.83,9.82-30.23,21.18-30.23,11.72,0,21.22,14.25,21.22,31.82a45.46,45.46,0,0,1-2,13.56L172,254.66v-.41c0-17.57,9.49-31.82,21.21-31.82s21.21,14.25,21.21,31.82a44.74,44.74,0,0,1-2.62,15.34L248,283.19V231Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-3\" cx=\"193.17\" cy=\"254.25\" data-ignore=\"true\" rx=\"17.4\" ry=\"26.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-3\" cx=\"93.18\" cy=\"218.75\" data-ignore=\"true\" rx=\"17.4\" ry=\"26.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-2 grey\" cx=\"92.2\" cy=\"218.75\" data-ignore=\"true\" rx=\"10.15\" ry=\"15.22\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-2 grey\" cx=\"191.37\" cy=\"254.25\" data-ignore=\"true\" rx=\"10.15\" ry=\"15.22\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"72\" x2=\"75.78\" y1=\"217.16\" y2=\"217.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"171.96\" x2=\"175.77\" y1=\"254.66\" y2=\"254.66\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"156.67\" x2=\"156.67\" y1=\"102.46\" y2=\"248.93\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"220.53\" x2=\"65.32\" y1=\"194.63\" y2=\"137.33\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"77.88\" x2=\"65.32\" y1=\"196.72\" y2=\"192.09\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"177.16\" x2=\"113.56\" y1=\"233.38\" y2=\"209.9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" data-ignore=\"true\" points=\"213.89 246.94 248.02 259.54 354.57 259.54\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"213.89 186.82 201.95 125.87 201.95 125.87 161.1 109.8 161.1 109.8 161.1 167.6 213.89 186.82 213.89 186.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"223.89 186.82 211.95 125.87 305.55 125.87 317.49 186.82 223.89 186.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-7\" d=\"M104.71,167.64c-3.24,0-7.67-8.29-8.26-22l8.8,3,1.19-3.44-10-3.45c0-1.43.08-2.81.17-4.14l9.39,3.23,1.18-3.44-10.2-3.5c1.37-10.34,5-16.42,7.78-16.42,1.39,0,2.63,1.4,3.42,2.58l3-2c-2.33-3.45-4.78-4.17-6.43-4.17-5.92,0-9.76,8.6-11.26,18.85l-3.36-1.16L88.91,135,93,136.42c-.12,1.36-.2,2.74-.24,4.11l-3.38-1.16-1.19,3.44,4.57,1.56c.34,13.36,4.5,26.91,11.93,26.91,1.38,0,3.45-.52,5.52-3L107.46,166A4,4,0,0,1,104.71,167.64Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"165.53 196.66 161.1 194.84 161.1 178.3 165.53 180.12 165.53 196.66\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3\" data-ignore=\"true\" height=\"18.19\" width=\"18.19\" x=\"254.52\" y=\"236.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3\" data-ignore=\"true\" height=\"18.19\" width=\"18.19\" x=\"331.19\" y=\"236.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-async=\"\" data-delay=\"5\" x1=\"79.46\" x2=\"37.96\" y1=\"124.01\" y2=\"108.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-async=\"\" data-delay=\"7\" x1=\"152.08\" x2=\"110.59\" y1=\"72.8\" y2=\"57.48\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-async=\"\" data-delay=\"2\" x1=\"62.11\" x2=\"48.71\" y1=\"147.57\" y2=\"142.63\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-async=\"\" data-delay=\"10\" x1=\"156.32\" x2=\"142.93\" y1=\"68.62\" y2=\"63.67\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-async=\"\" data-delay=\"5\" x1=\"73.89\" x2=\"39.21\" y1=\"156.38\" y2=\"143.58\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"46.6\" x2=\"46.6\" y1=\"28.25\" y2=\"41.8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"53.38\" x2=\"39.83\" y1=\"35.02\" y2=\"35.02\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"129.75\" x2=\"129.75\" y1=\"262.69\" y2=\"276.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"136.53\" x2=\"122.98\" y1=\"269.47\" y2=\"269.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"309.57\" x2=\"299.98\" y1=\"0.5\" y2=\"10.08\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" x1=\"309.57\" x2=\"299.98\" y1=\"10.08\" y2=\"0.5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data9": {
+    "A_id": "9",
+    "B_title": "PORTAIL DU\nSURENDETTEMENT",
+    "C_leadIn​": "Afin de faciliter la communication avec les acteurs externes à la Banque de France (commissaires et créanciers),\run portail du surendettement a été mis en place pour simplifier lʼaccès aux documents.",
+    "D_mark": "6,1",
+    "bloc1": {
+      "key1": {
+        "E_number": "9903",
+        "F_text": "créanciers du Trésor et autres créanciers"
+      },
+      "key2": {
+        "G_number": "1255",
+        "H_text": "commissaires et assistants commissions"
+      },
+      "key3": {
+        "I_number": "179000",
+        "J_text": "dossiers de surendettement résolus"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "63",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL DU\rSURENDETTEMENT</span>"
+      },
+      "keys": [
+        "9",
+        "54",
+        "27",
+        "10"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "6,5",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail du surendettement",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "6,5",
+            "T_text": "L’accès/l’utilisation du Portail",
+            "_picto_1_1": "portail_surendettement_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "7,1",
+            "V_text": "L’utilité des informations disponibles",
+            "_picto_1_2": "portail_surendettement_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "6,9",
+            "X_text": "La qualité des informations disponibles",
+            "_picto_1_3": "portail_surendettement_3.svg",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "7,0",
+        "Z_text": "Note globale pour<br><span class='bold'>la relation avec les interlocuteurs</span> du portail surendettement",
+        "_picto_2": "relation_interlocuteur.svg",
+        "keys": {
+          "key1": {
+            "AA_number": "7,4",
+            "AB_text": "Le délai de réponse",
+            "_picto_2_1": "portail_surendettement_4.svg",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "7,3",
+            "AD_text": "La clarté et la facilité de compréhension\rde la réponse apportée",
+            "_picto_2_2": "portail_surendettement_5.svg",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "7,2",
+            "AF_text": "L’exhaustivité de la réponse apportée",
+            "_picto_2_3": "portail_surendettement_6.svg",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "6,0",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail surendettement",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "6,4",
+            "AJ_text": "La facilité et l’agrément de lecture",
+            "_picto_3_1": "portail_surendettement_7.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "5,8",
+            "AL_text": "La fluidité de navigation sur le portail",
+            "_picto_3_2": "portail_surendettement_8.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "5,6",
+            "AN_text": "La facilité pour trouver les informations",
+            "_picto_3_3": "portail_surendettement_9.svg",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "88",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "69",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 5 décembre 2017 au 9 janvier 2018 auprès dʼutilisateurs\rdu portail du Surendettement",
+      "AV_people": "Echantillon représentatif de 1 518 enquêtes complètes, constitué dʼutilisateurs du portail"
+    },
+    "bloc6": {
+      "AW_title": "Portails surendettement : une solution adaptée à la dématérialisation",
+      "type": "Interview",
+      "AX_name": "avec Stéphane Tourte",
+      "function": "Directeur des Particuliers",
+      "AY_img": "stephane-tourte.png",
+      "AZ_quote": "Tous nos portails ont été construits avec une véritable expression des besoins ",
+      "questions": {
+        "question1": {
+          "BA_question": "1 — Quels sont les objectifs de ce nouveau portail&nbsp;? A qui s'adresse-t-il&nbsp;?",
+          "BB_answer": "L'objectif stratégique et partagé est de dématérialiser les échanges dans le cadre de la procédure de surendettement, soit plus de 7 millions de flux de courriers papier. Nous avons pour cela développé un portail à destination des commissaires et un portail créanciers, subdivisé en un portail créanciers publics (Direction générale des finances publiques) et un portail autres créanciers (établissements de crédits, assureurs…). Un portail pour les tribunaux d'instance est également en phase d'expérimentation. L'architecture est identique, mais les fonctionnalités divergent : le portail commissaires est uniquement destiné à la consultation, celui des créanciers et des tribunaux permet l'échange des flux. Outre l'économie d'une chaîne de papier chronophage, leur intérêt est de ne nécessiter aucun coût informatique de développement pour s'y connecter. "
+        },
+        "question2": {
+          "BC_question": "2 — Comment interprétez-vous les résultats de l'enquête&nbsp;?",
+          "BD_answer": "Ces mises en production récentes nécessitent une phase de rodage avec un petit décalage de perception de l'utilisateur qui doit s'approprier un nouvel outil et une nouvelle façon de travailler. Tous nos portails ont été construits avec une véritable expression des besoins issue de groupes de travail et comités de pilotage intégrant la chancellerie, la DGFIP et, pour le portail créanciers, un club utilisateurs, avec des retours positifs. Nous restons confiants sur la possibilité d'amélioration de la perception des portails et sur notre capacité à augmenter le pourcentage d'utilisateurs satisfaits grâce, notamment, à la mise en place d'une formation spécifique à destination des établissements de crédit. "
+        },
+        "question3": {
+          "BE_question": "3 — Quels sont les enjeux pour l'avenir&nbsp;?",
+          "BF_answer": "Le déploiement du portail DGFIP, intégralement réalisé, permettra d'économiser en 2018 500 000 courriers papiers et c'est une victoire partagée. Il nous reste à déployer avec succès le portail pour les tribunaux d'instance, un enjeu immédiat puisque l'expérimentation débute en mai. L'objectif est également de multiplier par 3 le nombre d'utilisateurs du portail créanciers pour accroître la part d'échanges dématérialisés. Nous travaillons enfin à une assistance utilisateurs performante, à former et à accompagner les nouveaux utilisateurs dans la phase de bascule, ainsi qu'à communiquer en établissant de régulières relations de confiance."
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "portail-du-surendettement.pdf"
+    },
+    "type": "text",
+    "pictogram": "<svg class=\"service-svg cls service-9\" viewbox=\"0 0 378 324.67\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,248.82V124.41a10,10,0,0,0-6.55-9.39L195.91,50.79a20,20,0,0,0-13.82,0L7.55,115A10,10,0,0,0,1,124.41V248.82a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,248.82Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-2\" data-ignore=\"true\" points=\"1 170.55 185.01 170.55 377 239.27\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-3 grey\" data-ignore=\"true\" points=\"376.28 246.51 193.27 246.51 6.93 179.91 199.3 179.91 377 243.42\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-2\" cx=\"304.28\" cy=\"251.63\" data-ignore=\"true\" rx=\"4.38\" ry=\"2.39\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-4\" data-ignore=\"true\" points=\"210.57 257.32 210.57 269.4 1 193.3 1.01 182.31 210.57 257.32 1.01 182.31 210.57 257.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2\" data-ignore=\"true\" height=\"140.32\" width=\"65.8\" x=\"119.29\" y=\"58.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"87.33 46.78 119.29 58.52 119.29 198.84 87.33 187.11 87.33 46.78\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"185.09 58.52 153.13 46.78 87.33 46.78 119.29 58.52 185.09 58.52\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"69.26\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"81.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"94.15\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"106.59\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"119.04\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"131.48\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"143.92\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"156.37\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"127.82\" y=\"168.81\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"340.04 269.4 210.57 269.4 210.57 257.32 372.26 257.32 340.04 269.4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2\" data-ignore=\"true\" height=\"103.6\" width=\"65.8\" x=\"176.76\" y=\"115.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"144.83 104.03 176.78 115.77 176.73 219.37 144.78 207.63 144.83 104.03\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"242.58 115.77 210.63 104.03 144.83 104.03 176.78 115.77 242.58 115.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"126.51\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"138.95\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"151.4\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"163.84\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"176.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"185.31\" y=\"188.73\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-2\" data-ignore=\"true\" height=\"140.32\" width=\"65.8\" x=\"232.72\" y=\"98.17\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3 grey\" data-ignore=\"true\" points=\"200.77 86.43 232.72 98.17 232.72 238.49 200.77 226.75 200.77 86.43\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"298.52 98.17 266.57 86.43 200.77 86.43 232.72 98.17 298.52 98.17\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"108.91\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"121.35\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"133.8\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"146.24\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"158.68\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"171.13\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"183.57\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"196.01\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<rect class=\"cls-3 grey\" data-ignore=\"true\" height=\"7.46\" width=\"49.85\" x=\"241.25\" y=\"208.46\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</rect>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"87.33\" x2=\"89.18\" y1=\"31.96\" y2=\"32.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" data-ignore=\"true\" points=\"92.78 34.19 119.29 45.04 144.83 85.43 173.07 96.7\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-5\" data-ignore=\"true\" points=\"174.87 97.42 176.73 98.17 177.92 96.56\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" data-ignore=\"true\" x1=\"180.33\" x2=\"198.37\" y1=\"93.33\" y2=\"69.1\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-5\" data-ignore=\"true\" points=\"199.58 67.49 200.77 65.88 202.61 66.68\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" data-ignore=\"true\" x1=\"205.72\" x2=\"222.85\" y1=\"68.02\" y2=\"75.43\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"224.41\" x2=\"226.24\" y1=\"76.11\" y2=\"76.9\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"280.09\" x2=\"280.09\" y1=\"0.5\" y2=\"14.05\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"286.86\" x2=\"273.31\" y1=\"7.28\" y2=\"7.28\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"328.16\" x2=\"328.16\" y1=\"165.76\" y2=\"179.32\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"334.93\" x2=\"321.38\" y1=\"172.54\" y2=\"172.54\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"60.61\" x2=\"51.03\" y1=\"64.47\" y2=\"74.05\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-10\" x1=\"60.61\" x2=\"51.03\" y1=\"74.05\" y2=\"64.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-9\" points=\"232.72 79.7 221.98 79.49 225.76 76.69 225.21 72.03 232.72 79.7\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": ""
+  },
+  "data10": {
+    "A_id": "10",
+    "B_title": "PORTAIL\nWEBSTAT",
+    "C_leadIn​": "Le Portail Webstat est la base interactive de données de séries statistiques de la Banque de France.",
+    "D_mark": "7,1",
+    "bloc1": {
+      "key1": {
+        "E_number": "35000",
+        "F_text": "séries statistiques diffusées"
+      },
+      "key2": {
+        "G_number": "72600",
+        "H_text": "visites, en moyenne, mensuelles sur le portail"
+      },
+      "key3": {
+        "I_number": "17300",
+        "J_text": "entités, en moyenne, visitant le site chaque mois"
+      }
+    },
+    "bloc2": {
+      "mainKey": {
+        "K_number": "86",
+        "L_text": "des clients se déclarent <span class='bold'>satisfaits</span> du <span class='semi-bold'>PORTAIL WEBSTAT</span>"
+      },
+      "keys": [
+        "25",
+        "61",
+        "11",
+        "3"
+      ]
+    },
+    "bloc3": {
+      "mark1": {
+        "Q_number": "7,5",
+        "R_text": "Note globale pour<br><span class='bold'>le service apporté</span> par le portail du Webstat",
+        "_picto_1": "service_apporte.svg",
+        "keys": {
+          "key1": {
+            "S_number": "7,4",
+            "T_text": "La bonne couverture sectorielle",
+            "_picto_1_1": "portail_webstat_1.svg",
+            "S2016_number": ""
+          },
+          "key2": {
+            "U_number": "8,0",
+            "V_text": "La richesse du contenu",
+            "_picto_1_2": "portail_webstat_2.svg",
+            "U2016_number": ""
+          },
+          "key3": {
+            "W_number": "7,7",
+            "X_text": "L’actualisation des données",
+            "_picto_1_3": "portail_webstat_3.svg",
+            "W2016_number": ""
+          }
+        },
+        "Q2016_number": ""
+      },
+      "mark2": {
+        "Y_number": "",
+        "Z_text": "",
+        "_picto_2": "",
+        "keys": {
+          "key1": {
+            "AA_number": "",
+            "AB_text": "",
+            "_picto_2_1": "",
+            "AA2016_number": ""
+          },
+          "key2": {
+            "AC_number": "",
+            "AD_text": "",
+            "_picto_2_2": "",
+            "AC2016_number": ""
+          },
+          "key3": {
+            "AE_number": "",
+            "AF_text": "",
+            "_picto_2_3": "",
+            "AE2016_number": ""
+          }
+        },
+        "Y2016_number": ""
+      },
+      "mark3": {
+        "AG_number": "6,9",
+        "AH_text": "Note globale pour<br><span class='bold'>la communication/information</span> du portail Webstat",
+        "_picto_3": "com_et_info.svg",
+        "keys": {
+          "key1": {
+            "AI_number": "6,9",
+            "AJ_text": "La facilité et l’agrément de lecture",
+            "_picto_3_1": "portail_webstat_4.svg",
+            "AI2016_number": ""
+          },
+          "key2": {
+            "AK_number": "7,3",
+            "AL_text": "Le format des articles",
+            "_picto_3_2": "portail_webstat_5.svg",
+            "AK2016_number": ""
+          },
+          "key3": {
+            "AM_number": "6,2",
+            "AN_text": "La fluidité de navigation sur le portail",
+            "_picto_3_3": "portail_webstat_6.svg",
+            "AM2016_number": ""
+          }
+        },
+        "AG2016_number": ""
+      }
+    },
+    "bloc4": {
+      "keys": {
+        "key1": {
+          "AO_number": "96",
+          "AP_text": "des personnes interrogées estiment que la Banque de France effectue un travail objectif et ﬁable."
+        },
+        "key2": {
+          "AQ_number": "83",
+          "AR_text": "des personnes interrogées considèrent que la Banque de France sait évoluer et innover pour répondre aux besoins et exigences des acteurs économiques et ﬁnanciers."
+        },
+        "key3": {
+          "AS_number": "79",
+          "AT_text": "des personnes interrogées pensent que la Banque de France est ouverte sur son environnement et commu-nique sufﬁsamment."
+        }
+      }
+    },
+    "bloc5": {
+      "AU_date": "Enquête on-line réalisée du 13 octobre au 6 décembre 2017 auprès dʼutilisateurs\rabonnés au Portail Webstat",
+      "AV_people": "Echantillon représentatif de 112 enquêtes complètes, constitué dʼutilisateurs abonnés au portail"
+    },
+    "bloc6": {
+      "AW_title": "Portail WEBSTAT : une source d'informations statistiques",
+      "type": "Infographie",
+      "AX_name": "",
+      "function": "",
+      "AY_img": "",
+      "AZ_quote": "",
+      "questions": {
+        "question1": {
+          "BA_question": "",
+          "BB_answer": ""
+        },
+        "question2": {
+          "BC_question": "",
+          "BD_answer": ""
+        },
+        "question3": {
+          "BE_question": "",
+          "BF_answer": ""
+        }
+      }
+    },
+    "footer": {
+      "BG_download": "portail-webstat.pdf"
+    },
+    "type": "picture",
+    "pictogram": "<svg class=\"service-svg cls service-10\" viewbox=\"0 0 378 302.92\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<path class=\"cls-1\" d=\"M377,227.07V102.65a10,10,0,0,0-6.55-9.38L195.91,29a20,20,0,0,0-13.82,0L7.55,93.27A10,10,0,0,0,1,102.65V227.07a10,10,0,0,0,6.55,9.39l174.54,64.23a20,20,0,0,0,13.82,0l174.54-64.23A10,10,0,0,0,377,227.07Z\" data-ignore=\"true\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</path>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"114.25 252.69 168.14 273.59 237.54 273.59 184.27 252.69 114.25 252.69\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"204.08 266.5 174.51 254.94 174.51 234.41 204.08 245.96 204.08 266.5\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-3\" data-ignore=\"true\" points=\"297.72 263.14 297.72 100.77 77.09 15.55 77.09 197.97 270.83 273.59 297.72 263.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-4\" data-ignore=\"true\" points=\"289.1 256.15 288.98 107.69 85.14 28.95 85.14 176.53 289.1 256.15\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"96.01\" y2=\"69.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"106.02\" y2=\"79.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"116.02\" y2=\"89.16\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"126.02\" y2=\"99.17\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"136.03\" y2=\"109.17\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"146.03\" y2=\"119.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"149.48\" x2=\"98.54\" y1=\"148.86\" y2=\"129.18\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-4\" data-ignore=\"true\" x1=\"168.06\" x2=\"98.54\" y1=\"176.04\" y2=\"149.19\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"77.09 15.55 91.84 15.55 312.46 100.77 297.72 100.77 77.09 15.55\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"297.72 100.77 297.72 263.14 312.46 257.8 312.46 100.77 297.72 100.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<ellipse class=\"cls-2 grey\" cx=\"187.12\" cy=\"229.21\" data-ignore=\"true\" rx=\"4.69\" ry=\"9.49\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</ellipse>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-5\" data-ignore=\"true\" x1=\"189.18\" x2=\"269.97\" y1=\"197.45\" y2=\"227.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"258.2 222.82 246.36 218.41 246.36 151.72 258.2 156.58 258.2 222.82\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"234.51 214.08 222.67 209.76 222.67 167.64 234.51 172.5 234.51 214.08\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-2 grey\" data-ignore=\"true\" points=\"210.83 205.34 198.99 201.05 198.99 109.17 210.83 114.03 210.83 205.34\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" data-ignore=\"true\" x1=\"59.26\" x2=\"61.11\" y1=\"0.5\" y2=\"1.26\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-7\" data-ignore=\"true\" x1=\"64.56\" x2=\"83.54\" y1=\"2.68\" y2=\"10.47\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" data-ignore=\"true\" points=\"85.26 11.17 87.11 11.93 87.68 13.85\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-8\" data-ignore=\"true\" x1=\"88.76\" x2=\"96.87\" y1=\"17.52\" y2=\"45.01\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polyline class=\"cls-6\" data-ignore=\"true\" points=\"97.41 46.84 97.98 48.76 99.84 49.48\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polyline>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-9\" data-ignore=\"true\" x1=\"103.23\" x2=\"135.45\" y1=\"50.81\" y2=\"63.38\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" data-ignore=\"true\" x1=\"137.14\" x2=\"139.01\" y1=\"64.05\" y2=\"64.77\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<polygon class=\"cls-10\" data-ignore=\"true\" points=\"145.58 67.34 134.84 67.51 138.51 64.58 137.79 59.94 145.58 67.34\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</polygon>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"348.16\" x2=\"348.16\" y1=\"142.58\" y2=\"155.14\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"354.44\" x2=\"341.88\" y1=\"148.86\" y2=\"148.86\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"287.5\" x2=\"287.5\" y1=\"9.27\" y2=\"21.83\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"293.78\" x2=\"281.22\" y1=\"15.55\" y2=\"15.55\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"81.22\" x2=\"72.34\" y1=\"221.83\" y2=\"230.71\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t\t<line class=\"cls-6\" x1=\"81.22\" x2=\"72.34\" y1=\"230.71\" y2=\"221.83\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t</line>\n\t\t\t\t\t\t\t\t\t\t\t\t</svg>",
+    "video_url": "",
+    "video_placeholder": "",
+    "image_url": "portail-webstat.jpg"
+  }
+}
